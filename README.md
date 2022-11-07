@@ -17,3 +17,11 @@ git add * # add all our your changes
 git commit -m "New version of the project"
 git push origin HEAD
 ```
+
+# Running tasks
+The main application is `:module03:module09:module1`, and in order to benchmark it please run
+```
+./gradlew :module03:module09:module1:assembleDebug
+```
+
+You can also execute `./gradlew assembleDebug` that will assemble all projects, but please keep in mind this will take a while to run.
