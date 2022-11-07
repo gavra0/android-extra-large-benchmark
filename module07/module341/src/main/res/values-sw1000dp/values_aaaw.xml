@@ -1,0 +1,26 @@
+<resources>
+    <dimen name="android_aadp">1113px</dimen>
+    <dimen name="android_aaed">1578pt</dimen>
+    <dimen name="android_aaeq">1802in</dimen>
+    <dimen name="android_constable_party_aaff">1964in</dimen>
+    <dimen name="android_name_aadi">1167sp</dimen>
+    <dimen name="android_party_aabf">1477pt</dimen>
+    <dimen name="android_pie_aabj">744pt</dimen>
+    <dimen name="android_the_face_aadw">382sp</dimen>
+    <dimen name="awesome_aacf">993dp</dimen>
+    <dimen name="awesome_aacj">1872pt</dimen>
+    <dimen name="awesome_aadb">157in</dimen>
+    <dimen name="awesome_aaee">1547dp</dimen>
+    <dimen name="awesome_cookie_etc._aaad">134sp</dimen>
+    <dimen name="awesome_strawberry_aaas">564in</dimen>
+    <dimen name="chocolate_aacy">403pt</dimen>
+    <dimen name="chocolate_aadz">1299mm</dimen>
+    <dimen name="chocolate_aaeg">1451px</dimen>
+    <dimen name="chocolate_aafq">578sp</dimen>
+    <dimen name="chocolate_face_aafh">427pt</dimen>
+    <dimen name="chocolate_strawberry_aafs">609pt</dimen>
+    <dimen name="chocolate_vanilla_aafj">651mm</dimen>
+    <dimen name="chocolate_vanilla_cool_aaco">738in</dimen>
+    <dimen name="constable_aaft">958in</dimen>
+    <dimen name="constable_party_android_aaey">1970dp</dimen>
+</resources>

@@ -1,0 +1,14 @@
+<resources>
+    <dimen name="pie_aaaa">918sp</dimen>
+    <dimen name="pie_android_cookie_aaab">1389in</dimen>
+    <dimen name="awesome_aaac">304in</dimen>
+    <dimen name="chocolate_aaad">441dp</dimen>
+    <dimen name="delivery_cookie_vanilla_aaae">488dp</dimen>
+    <dimen name="face_writer_name_aaaf">39in</dimen>
+    <dimen name="pizza_aaag">1500sp</dimen>
+    <dimen name="android_aaah">860pt</dimen>
+    <dimen name="nice_aaai">1331pt</dimen>
+    <dimen name="awesome_aaaj">1914mm</dimen>
+    <dimen name="the_aaak">504pt</dimen>
+    <dimen name="vanilla_aaal">1367px</dimen>
+</resources>

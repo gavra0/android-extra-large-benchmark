@@ -1,0 +1,10 @@
+<resources>
+    <dimen name="android_aadp">1831px</dimen>
+    <dimen name="android_aaed">1406mm</dimen>
+    <dimen name="android_aaeq">1378dp</dimen>
+    <dimen name="android_constable_party_aaff">47dp</dimen>
+    <dimen name="android_name_aadi">250in</dimen>
+    <dimen name="android_party_aabf">453dp</dimen>
+    <dimen name="android_pie_aabj">1920sp</dimen>
+    <dimen name="android_the_face_aadw">1383dp</dimen>
+</resources>

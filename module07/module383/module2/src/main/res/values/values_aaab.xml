@@ -1,0 +1,11 @@
+<resources>
+    <dimen name="name_aaaa">1050sp</dimen>
+    <dimen name="pizza_vanilla_etc._aaab">431dp</dimen>
+    <dimen name="pizza_cookie_aaac">1786mm</dimen>
+    <dimen name="delivery_nice_party_aaad">1995dp</dimen>
+    <dimen name="the_pie_aaae">684mm</dimen>
+    <dimen name="nice_cool_the_aaaf">723px</dimen>
+    <dimen name="max_cool_aaag">366sp</dimen>
+    <dimen name="the_max_constable_aaah">1422dp</dimen>
+    <dimen name="face_writer_aaai">18in</dimen>
+</resources>

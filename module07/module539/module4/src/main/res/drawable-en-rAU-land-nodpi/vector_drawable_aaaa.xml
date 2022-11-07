@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="17dp"
+    android:height="4dp"
+    android:viewportWidth="1"
+    android:viewportHeight="0">
+    <path
+        android:fillColor="#49300515"
+        android:strokeColor="#2a146f29"
+        android:strokeWidth="0.165"
+        android:fillAlpha="0.687"
+        android:pathData="M7,0L3,1" />
+    <path
+        android:fillColor="#483e7143"
+        android:strokeColor="#663a5472"
+        android:strokeWidth="0.083"
+        android:fillAlpha="0.624"
+        android:pathData="M4,1L0,2" />
+    <path
+        android:fillColor="#0b0a2654"
+        android:strokeColor="#5a1e225f"
+        android:strokeWidth="0.39"
+        android:fillAlpha="0.107"
+        android:pathData="M13,3L0,3" />
+    <path
+        android:fillColor="#59421a01"
+        android:strokeColor="#433a1614"
+        android:strokeWidth="0.887"
+        android:fillAlpha="0.572"
+        android:pathData="M15,1L10,1" />
+    <path
+        android:fillColor="#6f750e22"
+        android:strokeColor="#4a242819"
+        android:strokeWidth="0.857"
+        android:fillAlpha="0.514"
+        android:pathData="M7,3L3,2" />
+    <path
+        android:fillColor="#353a7265"
+        android:strokeColor="#15587753"
+        android:strokeWidth="0.066"
+        android:fillAlpha="0.972"
+        android:pathData="M4,2L15,1" />
+    <path
+        android:fillColor="#0c0f7b06"
+        android:strokeColor="#301c5608"
+        android:strokeWidth="0.353"
+        android:fillAlpha="0.236"
+        android:pathData="M1,3L13,2" />
+    <path
+        android:fillColor="#60292823"
+        android:strokeColor="#3b2a183d"
+        android:strokeWidth="0.971"
+        android:fillAlpha="0.005"
+        android:pathData="M10,0L0,1" />
+    <path
+        android:fillColor="#3c457e77"
+        android:strokeColor="#11297b51"
+        android:strokeWidth="0.949"
+        android:fillAlpha="0.176"
+        android:pathData="M10,1L2,1" />
+</vector>

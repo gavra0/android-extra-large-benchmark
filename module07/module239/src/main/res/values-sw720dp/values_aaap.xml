@@ -1,0 +1,8 @@
+<resources>
+    <dimen name="android_nice_aaad">1833sp</dimen>
+    <dimen name="face_constable_min_aaaa">7in</dimen>
+    <dimen name="pie_aaac">565dp</dimen>
+    <dimen name="pie_wire_cookie_aaab">629in</dimen>
+    <dimen name="pizza_max_aaaf">261mm</dimen>
+    <dimen name="wire_aaae">47in</dimen>
+</resources>

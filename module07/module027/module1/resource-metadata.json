@@ -1,0 +1,110 @@
+{
+  "androidResources": {
+    "animator": [],
+    "anim": [],
+    "color": [],
+    "drawable": [
+      {
+        "qualifiers": "",
+        "extension": "xml",
+        "quantity": 10,
+        "fileData": [
+          30,
+          17,
+          13,
+          24,
+          17,
+          13,
+          30,
+          13,
+          13,
+          13
+        ]
+      },
+      {
+        "qualifiers": "hdpi",
+        "extension": "webp",
+        "quantity": 2,
+        "fileData": [
+          22650,
+          6140
+        ]
+      },
+      {
+        "qualifiers": "mdpi",
+        "extension": "webp",
+        "quantity": 2,
+        "fileData": [
+          13848,
+          3720
+        ]
+      },
+      {
+        "qualifiers": "sw1000dp-land",
+        "extension": "xml",
+        "quantity": 7,
+        "fileData": [
+          30,
+          17,
+          13,
+          17,
+          30,
+          13,
+          13
+        ]
+      },
+      {
+        "qualifiers": "sw600dp",
+        "extension": "xml",
+        "quantity": 7,
+        "fileData": [
+          30,
+          17,
+          13,
+          17,
+          30,
+          13,
+          13
+        ]
+      },
+      {
+        "qualifiers": "xhdpi",
+        "extension": "webp",
+        "quantity": 2,
+        "fileData": [
+          37086,
+          8934
+        ]
+      },
+      {
+        "qualifiers": "xxhdpi",
+        "extension": "webp",
+        "quantity": 2,
+        "fileData": [
+          48218,
+          14302
+        ]
+      },
+      {
+        "qualifiers": "xxxhdpi",
+        "extension": "webp",
+        "quantity": 2,
+        "fileData": [
+          97032,
+          21666
+        ]
+      }
+    ],
+    "font": [],
+    "layout": [],
+    "menu": [],
+    "mipmap": [],
+    "navigation": [],
+    "raw": [],
+    "transition": [],
+    "values": [],
+    "xml": []
+  },
+  "javaResources": {},
+  "assets": {}
+}

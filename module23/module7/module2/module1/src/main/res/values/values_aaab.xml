@@ -1,0 +1,10 @@
+<resources>
+    <dimen name="constable_delivery_aaaa">691sp</dimen>
+    <dimen name="face_android_aaab">320dp</dimen>
+    <dimen name="delivery_pizza_aaac">378px</dimen>
+    <dimen name="chocolate_strawberry_aaad">1974mm</dimen>
+    <dimen name="the_constable_writer_aaae">1589mm</dimen>
+    <dimen name="cool_vanilla_writer_aaaf">723px</dimen>
+    <dimen name="android_delivery_aaag">521in</dimen>
+    <dimen name="strawberry_aaah">160px</dimen>
+</resources>

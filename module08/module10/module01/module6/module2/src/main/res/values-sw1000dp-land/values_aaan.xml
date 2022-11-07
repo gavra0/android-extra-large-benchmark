@@ -1,0 +1,13 @@
+<resources>
+    <dimen name="android_awesome_writer_aaak">158px</dimen>
+    <dimen name="constable_aaaj">214in</dimen>
+    <dimen name="cool_aaah">1109in</dimen>
+    <dimen name="cool_max_chocolate_aaam">453mm</dimen>
+    <dimen name="cool_min_aaao">983in</dimen>
+    <dimen name="delivery_aaad">2031mm</dimen>
+    <dimen name="delivery_etc._constable_aaae">250dp</dimen>
+    <dimen name="delivery_face_aaal">1647in</dimen>
+    <dimen name="etc._min_android_aaai">1109dp</dimen>
+    <dimen name="min_etc._aaan">1210pt</dimen>
+    <dimen name="name_aaac">505pt</dimen>
+</resources>

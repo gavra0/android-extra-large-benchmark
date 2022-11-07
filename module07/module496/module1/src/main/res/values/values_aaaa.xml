@@ -1,0 +1,9 @@
+<resources>
+    <dimen name="strawberry_aaaa">1773px</dimen>
+    <dimen name="android_awesome_aaab">1556px</dimen>
+    <dimen name="cookie_aaac">1441sp</dimen>
+    <dimen name="awesome_min_aaad">483in</dimen>
+    <dimen name="awesome_constable_aaae">1416in</dimen>
+    <dimen name="constable_android_aaaf">1410dp</dimen>
+    <dimen name="android_chocolate_wire_aaag">1343mm</dimen>
+</resources>

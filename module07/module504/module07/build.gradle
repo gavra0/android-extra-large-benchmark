@@ -1,0 +1,34 @@
+plugins {
+  id 'com.android.library'
+}
+android {
+  compileSdkVersion = 'android-32'
+  defaultConfig {
+    minSdkVersion 24
+    targetSdkVersion 31
+  }
+  compileOptions {
+    sourceCompatibility = JavaVersion.VERSION_1_8
+    targetCompatibility = JavaVersion.VERSION_1_8
+  }
+  buildFeatures {
+    buildConfig = false
+  }
+}
+dependencies {
+  androidTestImplementation 'androidx.annotation:annotation:1.0.0'
+  annotationProcessor 'com.google.dagger:dagger-compiler:2.43.1'
+  api project(':module07:module194:module1')
+  api project(':module07:module506:module1')
+  api project(':module07:module504:module01')
+  api project(':module07:module504:module10')
+  api project(':module07:module562:module10')
+  api 'com.google.dagger:dagger:2.43.1'
+  api 'com.squareup.retrofit2:retrofit-mock:2.8.1'
+  api 'com.squareup.retrofit2:retrofit:2.8.1'
+  api 'io.reactivex.rxjava2:rxjava:2.2.21'
+  compileOnly 'androidx.annotation:annotation:1.0.0'
+  implementation project(':module07:module194:module1')
+  implementation project(':module07:module274:module2')
+  implementation project(':module07:module488:module1')
+}

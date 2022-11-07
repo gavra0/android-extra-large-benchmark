@@ -1,0 +1,11 @@
+<resources>
+    <dimen name="vanilla_aaaa">822mm</dimen>
+    <dimen name="delivery_aaab">57sp</dimen>
+    <dimen name="face_party_aaac">2pt</dimen>
+    <dimen name="delivery_aaad">1400in</dimen>
+    <dimen name="delivery_aaae">429in</dimen>
+    <dimen name="face_name_aaaf">1263px</dimen>
+    <dimen name="pie_aaag">1571dp</dimen>
+    <dimen name="nice_aaah">260dp</dimen>
+    <dimen name="delivery_aaai">877sp</dimen>
+</resources>

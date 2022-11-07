@@ -1,0 +1,16 @@
+<resources>
+    <dimen name="delivery_party_awesome_aaaa">1333pt</dimen>
+    <dimen name="nice_aaab">1906px</dimen>
+    <dimen name="vanilla_pizza_wire_aaac">1373sp</dimen>
+    <dimen name="etc._aaad">546in</dimen>
+    <dimen name="party_min_constable_aaae">364px</dimen>
+    <dimen name="etc._party_wire_aaaf">486in</dimen>
+    <dimen name="vanilla_aaag">1152mm</dimen>
+    <dimen name="vanilla_delivery_aaah">1164sp</dimen>
+    <dimen name="android_vanilla_aaai">588dp</dimen>
+    <dimen name="writer_delivery_max_aaaj">1590mm</dimen>
+    <dimen name="pie_max_aaak">845dp</dimen>
+    <dimen name="delivery_name_pie_aaal">1553in</dimen>
+    <dimen name="wire_aaam">321mm</dimen>
+    <dimen name="vanilla_aaan">1573pt</dimen>
+</resources>

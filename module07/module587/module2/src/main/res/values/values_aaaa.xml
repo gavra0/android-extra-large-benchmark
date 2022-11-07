@@ -1,0 +1,7 @@
+<resources>
+    <bool name="delivery_aaaa">false</bool>
+    <bool name="cookie_name_aaab">true</bool>
+    <bool name="name_aaac">true</bool>
+    <bool name="cookie_android_aaad">true</bool>
+    <bool name="strawberry_pie_aaae">false</bool>
+</resources>

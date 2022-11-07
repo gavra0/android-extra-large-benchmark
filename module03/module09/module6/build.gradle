@@ -1,0 +1,84 @@
+plugins {
+  id 'com.android.library'
+}
+android {
+  compileSdkVersion = 'android-32'
+  defaultConfig {
+    minSdkVersion 24
+    targetSdkVersion 31
+  }
+  compileOptions {
+    sourceCompatibility = JavaVersion.VERSION_1_8
+    targetCompatibility = JavaVersion.VERSION_1_8
+  }
+  buildFeatures {
+    buildConfig = false
+  }
+}
+dependencies {
+  androidTestImplementation project(':module07:module505:module1')
+  androidTestImplementation 'androidx.annotation:annotation:1.0.0'
+  androidTestImplementation 'androidx.compose.runtime:runtime:1.2.0-alpha07'
+  androidTestImplementation 'com.squareup.anvil:annotations:2.4.1'
+  androidTestImplementation 'org.jetbrains.kotlin:kotlin-parcelize-runtime:1.7.20'
+  annotationProcessor 'com.google.dagger:dagger-compiler:2.43.1'
+  api project(':module01:module03')
+  api project(':module03:module09:module4')
+  api project(':module07:module005:module6')
+  api project(':module07:module023:module2')
+  api project(':module07:module024:module3')
+  api project(':module07:module098:module3')
+  api project(':module07:module104:module6')
+  api project(':module07:module194:module1')
+  api project(':module07:module220:module3')
+  api project(':module07:module255:module4:module2')
+  api project(':module07:module255:module3:module4')
+  api project(':module07:module264:module3')
+  api project(':module07:module265:module4')
+  api project(':module07:module292:module4')
+  api project(':module07:module326:module5')
+  api project(':module07:module326:module6')
+  api project(':module07:module329:module3')
+  api project(':module07:module337:module3')
+  api project(':module07:module351:module5')
+  api project(':module07:module367:module3')
+  api project(':module07:module386:module2')
+  api project(':module07:module388:module2')
+  api project(':module07:module401:module5')
+  api project(':module07:module417:module2')
+  api project(':module07:module464:module3')
+  api project(':module07:module470:module3')
+  api project(':module07:module509:module2')
+  api project(':module07:module511:module1')
+  api project(':module07:module512:module3')
+  api project(':module07:module514:module1')
+  api project(':module07:module542:module3')
+  api project(':module07:module556:module7')
+  api project(':module08:module01')
+  api project(':module08:module05:module4')
+  api project(':module08:module09:module5')
+  api project(':module08:module22')
+  api project(':module08:module24')
+  api project(':module08:module28')
+  api project(':module08:module30:module1')
+  api project(':module08:module33:module2')
+  api project(':module08:module36')
+  api project(':module08:module38:module2')
+  api project(':module08:module41:module3')
+  api project(':module08:module43')
+  api project(':module08:module50:module4')
+  api project(':module08:module54:module2')
+  api project(':module08:module56')
+  api project(':module08:module60:module4')
+  api project(':module10:module2')
+  api project(':module15:module1:module2')
+  api project(':module22:module1')
+  api 'com.google.dagger:dagger:2.43.1'
+  compileOnly project(':module07:module505:module1')
+  compileOnly project(':module08:module57')
+  compileOnly 'androidx.annotation:annotation:1.0.0'
+  compileOnly 'androidx.compose.runtime:runtime:1.2.0-alpha07'
+  compileOnly 'com.squareup.anvil:annotations:2.4.1'
+  compileOnly 'org.jetbrains.kotlin:kotlin-parcelize-runtime:1.7.20'
+  implementation project(':module07:module204:module3')
+}

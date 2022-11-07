@@ -1,0 +1,24 @@
+plugins {
+  id 'com.android.library'
+}
+android {
+  compileSdkVersion = 'android-32'
+  defaultConfig {
+    minSdkVersion 24
+    targetSdkVersion 31
+  }
+  compileOptions {
+    sourceCompatibility = JavaVersion.VERSION_1_8
+    targetCompatibility = JavaVersion.VERSION_1_8
+  }
+  buildFeatures {
+    buildConfig = false
+  }
+}
+dependencies {
+  androidTestImplementation 'androidx.annotation:annotation:1.0.0'
+  api project(':module07:module514:module1')
+  compileOnly 'androidx.annotation:annotation:1.0.0'
+  implementation project(':module07:module518:module1')
+  implementation project(':module07:module587:module3')
+}

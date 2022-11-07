@@ -1,0 +1,13 @@
+<resources>
+    <dimen name="android_nice_wire_aaad">533sp</dimen>
+    <dimen name="awesome_aaaq">1027mm</dimen>
+    <dimen name="constable_aaag">1433in</dimen>
+    <dimen name="constable_etc._wire_aaar">1367px</dimen>
+    <dimen name="constable_wire_aaaa">1653dp</dimen>
+    <dimen name="cookie_wire_the_aaaf">319sp</dimen>
+    <dimen name="cool_face_wire_aaal">1615dp</dimen>
+    <dimen name="delivery_aaav">921pt</dimen>
+    <dimen name="delivery_cool_aaae">1555dp</dimen>
+    <dimen name="delivery_min_pie_aaas">1242pt</dimen>
+    <dimen name="etc._max_aaau">515pt</dimen>
+</resources>

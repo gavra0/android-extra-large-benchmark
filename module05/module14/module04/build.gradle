@@ -1,0 +1,91 @@
+plugins {
+  id 'com.android.library'
+  id 'org.jetbrains.kotlin.android'
+}
+android {
+  compileSdkVersion = 'android-32'
+  defaultConfig {
+    minSdkVersion 24
+    targetSdkVersion 31
+  }
+  compileOptions {
+    sourceCompatibility = JavaVersion.VERSION_1_8
+    targetCompatibility = JavaVersion.VERSION_1_8
+  }
+  kotlinOptions {
+    jvmTarget = '1.8'
+  }
+  buildFeatures {
+    buildConfig = false
+  }
+}
+dependencies {
+  androidTestImplementation 'androidx.annotation:annotation:1.0.0'
+  api project(':module05:module07')
+  api project(':module05:module14:module13')
+  api project(':module05:module14:module14')
+  api project(':module05:module34:module2')
+  api project(':module07:module194:module1')
+  api project(':module07:module562:module10')
+  api 'com.google.dagger:dagger:2.43.1'
+  api 'javax.inject:javax.inject:1'
+  compileOnly 'androidx.annotation:annotation:1.0.0'
+  implementation project(':module05:module02:module4')
+  implementation project(':module05:module04:module2')
+  implementation project(':module05:module06:module5')
+  implementation project(':module05:module08:module2')
+  implementation project(':module05:module11:module6')
+  implementation project(':module05:module12:module1')
+  implementation project(':module05:module12:module3')
+  implementation project(':module05:module16:module4')
+  implementation project(':module05:module21')
+  implementation project(':module05:module23:module9')
+  implementation project(':module05:module25:module6')
+  implementation project(':module05:module26:module5')
+  implementation project(':module05:module37')
+  implementation project(':module05:module42:module4')
+  implementation project(':module07:module019:module4')
+  implementation project(':module07:module089:module4')
+  implementation project(':module07:module189:module1')
+  implementation project(':module07:module194:module1')
+  implementation project(':module07:module240:module5')
+  implementation project(':module07:module249:module6')
+  implementation project(':module07:module278')
+  implementation project(':module07:module358:module1')
+  implementation project(':module07:module487:module1')
+  implementation project(':module07:module488:module1')
+  implementation project(':module07:module504:module10')
+  implementation project(':module07:module508:module3')
+  implementation project(':module07:module592:module3')
+  implementation project(':module07:module608:module3:module1')
+  implementation project(':module16:module012:module1')
+  implementation project(':module16:module114:module1')
+  implementation 'androidx.security:security-crypto-ktx:1.1.0-alpha03'
+  implementation 'com.jakewharton.rxrelay2:rxrelay:2.1.0'
+  implementation 'com.squareup.logcat:logcat:0.1'
+  implementation 'com.squareup.okio:okio:3.0.0'
+  implementation 'com.squareup.retrofit2:retrofit:2.8.1'
+  implementation 'com.squareup.workflow1:workflow-core-jvm:1.8.0-beta10'
+  implementation 'com.squareup.workflow1:workflow-rx2:1.8.0-beta10'
+  implementation 'io.reactivex.rxjava2:rxjava:2.2.21'
+  implementation 'org.jetbrains.kotlin:kotlin-bom:1.7.20'
+  implementation 'org.jetbrains.kotlinx:kotlinx-coroutines-rx2:1.6.4'
+  testImplementation project(':module05:module26:module6')
+  testImplementation project(':module05:module42:module1')
+  testImplementation project(':module07:module031:module6')
+  testImplementation project(':module07:module249:module7')
+  testImplementation project(':module07:module354:module1')
+  testImplementation project(':module07:module488:module2')
+  testImplementation project(':module07:module504:module11')
+  testImplementation 'androidx.test:core:1.4.0'
+  testImplementation 'com.google.truth:truth:1.1.3'
+  testImplementation 'com.jakewharton.rxrelay2:rxrelay:2.1.0'
+  testImplementation 'com.squareup.workflow1:workflow-runtime-jvm:1.8.0-beta10'
+  testImplementation 'com.squareup.workflow1:workflow-testing-jvm:1.8.0-beta10'
+  testImplementation 'junit:junit:4.13.2'
+  testImplementation 'org.jetbrains.kotlin:kotlin-test-junit:1.7.20'
+  testImplementation 'org.jetbrains.kotlinx:kotlinx-coroutines-test:1.6.4'
+  testImplementation 'org.mockito.kotlin:mockito-kotlin:3.2.0'
+  testImplementation 'org.mockito:mockito-core:3.12.4'
+  testImplementation 'org.robolectric:robolectric:4.7.3'
+}

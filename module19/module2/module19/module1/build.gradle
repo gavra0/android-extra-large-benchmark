@@ -1,0 +1,40 @@
+plugins {
+  id 'com.android.library'
+  id 'org.jetbrains.kotlin.android'
+}
+android {
+  compileSdkVersion = 'android-32'
+  defaultConfig {
+    minSdkVersion 24
+    targetSdkVersion 31
+  }
+  compileOptions {
+    sourceCompatibility = JavaVersion.VERSION_1_8
+    targetCompatibility = JavaVersion.VERSION_1_8
+  }
+  kotlinOptions {
+    jvmTarget = '1.8'
+  }
+  buildFeatures {
+    buildConfig = false
+  }
+}
+dependencies {
+  androidTestImplementation 'androidx.annotation:annotation:1.0.0'
+  api project(':module07:module194:module1')
+  api project(':module19:module2:module19:module5')
+  api project(':module19:module2:module19:module6')
+  api 'com.google.dagger:dagger:2.43.1'
+  api 'javax.inject:javax.inject:1'
+  compileOnly 'androidx.annotation:annotation:1.0.0'
+  implementation project(':module07:module028:module2:module4')
+  implementation project(':module07:module219:module3')
+  implementation project(':module07:module359:module1')
+  implementation project(':module07:module372:module1')
+  implementation project(':module07:module461')
+  implementation project(':module07:module611:module2')
+  implementation project(':module07:module612:module2')
+  implementation project(':module08:module23:module2:module3')
+  implementation project(':module19:module1:module06:module1')
+  implementation 'org.jetbrains.kotlin:kotlin-bom:1.7.20'
+}

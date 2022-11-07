@@ -1,0 +1,8 @@
+<resources>
+    <dimen name="android_aadp">438dp</dimen>
+    <dimen name="android_aaed">472dp</dimen>
+    <dimen name="android_aaeq">434mm</dimen>
+    <dimen name="android_constable_party_aaff">334px</dimen>
+    <dimen name="android_name_aadi">1234sp</dimen>
+    <dimen name="android_party_aabf">1176px</dimen>
+</resources>

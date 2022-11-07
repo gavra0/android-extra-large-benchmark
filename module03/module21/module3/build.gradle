@@ -1,0 +1,55 @@
+plugins {
+  id 'com.android.library'
+  id 'org.jetbrains.kotlin.android'
+}
+android {
+  compileSdkVersion = 'android-32'
+  defaultConfig {
+    minSdkVersion 25
+    targetSdkVersion 25
+  }
+  compileOptions {
+    sourceCompatibility = JavaVersion.VERSION_1_8
+    targetCompatibility = JavaVersion.VERSION_1_8
+  }
+  kotlinOptions {
+    jvmTarget = '1.8'
+  }
+  buildFeatures {
+    buildConfig = false
+  }
+}
+dependencies {
+  androidTestImplementation 'androidx.annotation:annotation:1.0.0'
+  api project(':module05:module11:module4')
+  api project(':module05:module14:module06')
+  api project(':module05:module41:module2')
+  api project(':module07:module002:module2')
+  api project(':module07:module003:module2')
+  api project(':module07:module019:module3')
+  api project(':module07:module031:module3')
+  api project(':module07:module035:module1')
+  api project(':module07:module089:module3')
+  api project(':module07:module194:module1')
+  api project(':module07:module198:module3')
+  api project(':module07:module204:module3')
+  api project(':module07:module207:module2')
+  api project(':module07:module240:module3')
+  api project(':module07:module356:module1')
+  api project(':module07:module427:module1')
+  api project(':module07:module445:module2')
+  api project(':module07:module457:module1')
+  api project(':module07:module560:module1')
+  api project(':module07:module561:module2')
+  api project(':module07:module592:module2')
+  api project(':module23:module1:module08:module1')
+  api project(':module23:module1:module09:module3')
+  api project(':module23:module1:module37:module6')
+  api project(':module23:module5:module01:module1')
+  api project(':module23:module5:module03:module1')
+  api project(':module23:module5:module04:module1')
+  api project(':module23:module5:module17')
+  api 'com.google.dagger:dagger:2.43.1'
+  compileOnly 'androidx.annotation:annotation:1.0.0'
+  implementation 'org.jetbrains.kotlin:kotlin-bom:1.7.20'
+}

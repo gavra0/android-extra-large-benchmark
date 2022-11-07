@@ -1,0 +1,36 @@
+plugins {
+  id 'com.android.library'
+  id 'org.jetbrains.kotlin.android'
+}
+android {
+  compileSdkVersion = 'android-32'
+  defaultConfig {
+    minSdkVersion 24
+    targetSdkVersion 31
+  }
+  compileOptions {
+    sourceCompatibility = JavaVersion.VERSION_1_8
+    targetCompatibility = JavaVersion.VERSION_1_8
+  }
+  kotlinOptions {
+    jvmTarget = '1.8'
+  }
+  buildFeatures {
+    buildConfig = false
+    androidResources = true
+  }
+}
+dependencies {
+  androidTestImplementation 'androidx.annotation:annotation:1.0.0'
+  api project(':module07:module014:module5')
+  api project(':module07:module014:module6')
+  api project(':module07:module194:module1')
+  api project(':module07:module608:module1:module1')
+  api project(':module08:module37:module13:module1')
+  api 'com.google.dagger:dagger:2.43.1'
+  api 'javax.inject:javax.inject:1'
+  compileOnly 'androidx.annotation:annotation:1.0.0'
+  implementation project(':module07:module372:module1')
+  implementation 'com.squareup.workflow1:workflow-ui-core-android:1.8.0-beta10'
+  implementation 'org.jetbrains.kotlin:kotlin-bom:1.7.20'
+}

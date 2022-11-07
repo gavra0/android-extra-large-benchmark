@@ -1,0 +1,49 @@
+plugins {
+  id 'com.android.library'
+  id 'org.jetbrains.kotlin.android'
+  id 'org.jetbrains.kotlin.kapt'
+}
+android {
+  compileSdkVersion = 'android-32'
+  defaultConfig {
+    minSdkVersion 24
+    targetSdkVersion 31
+  }
+  compileOptions {
+    sourceCompatibility = JavaVersion.VERSION_1_8
+    targetCompatibility = JavaVersion.VERSION_1_8
+  }
+  kotlinOptions {
+    jvmTarget = '1.8'
+  }
+  buildFeatures {
+    buildConfig = false
+  }
+}
+dependencies {
+  androidTestImplementation 'androidx.annotation:annotation:1.0.0'
+  api project(':module07:module010:module2')
+  api project(':module07:module049:module5')
+  api project(':module07:module087:module3')
+  api project(':module07:module088:module2')
+  api project(':module07:module201')
+  api project(':module07:module276')
+  api project(':module07:module326:module1')
+  api project(':module07:module329:module4')
+  api project(':module07:module484:module5')
+  api project(':module07:module507:module1')
+  api project(':module07:module539:module2')
+  api project(':module07:module583:module1')
+  api project(':module07:module584:module1')
+  api project(':module07:module594:module3')
+  api project(':module07:module591:module1:module2')
+  api 'com.google.dagger:dagger:2.43.1'
+  compileOnly 'androidx.annotation:annotation:1.0.0'
+  implementation project(':module07:module038:module5')
+  implementation project(':module07:module249:module4')
+  implementation project(':module08:module12:module1')
+  implementation 'androidx.test.espresso:espresso-contrib:3.3.0'
+  implementation 'androidx.test.uiautomator:uiautomator:2.2.0'
+  implementation 'org.jetbrains.kotlin:kotlin-bom:1.7.20'
+  kapt 'com.google.dagger:dagger-compiler:2.43.1'
+}

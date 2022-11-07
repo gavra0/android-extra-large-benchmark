@@ -1,0 +1,9 @@
+<resources>
+    <dimen name="delivery_aaab">1039in</dimen>
+    <dimen name="delivery_aaad">1500mm</dimen>
+    <dimen name="delivery_aaae">1496dp</dimen>
+    <dimen name="delivery_aaai">36pt</dimen>
+    <dimen name="face_name_aaaf">1825mm</dimen>
+    <dimen name="face_party_aaac">1625in</dimen>
+    <dimen name="nice_aaah">590dp</dimen>
+</resources>

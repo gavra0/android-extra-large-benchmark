@@ -1,0 +1,39 @@
+plugins {
+  id 'com.android.library'
+  id 'org.jetbrains.kotlin.android'
+}
+android {
+  compileSdkVersion = 'android-32'
+  defaultConfig {
+    minSdkVersion 24
+    targetSdkVersion 31
+  }
+  compileOptions {
+    sourceCompatibility = JavaVersion.VERSION_1_8
+    targetCompatibility = JavaVersion.VERSION_1_8
+  }
+  kotlinOptions {
+    jvmTarget = '1.8'
+  }
+  buildFeatures {
+    buildConfig = false
+  }
+}
+dependencies {
+  androidTestImplementation 'androidx.annotation:annotation:1.0.0'
+  api project(':module01:module15')
+  api project(':module07:module110:module4')
+  api project(':module07:module171:module1')
+  api project(':module07:module184:module1')
+  api project(':module07:module216:module06:module1')
+  api project(':module07:module232:module8')
+  api project(':module07:module246:module1:module7')
+  api project(':module07:module466:module1')
+  api project(':module07:module572')
+  api project(':module07:module615:module1')
+  api project(':module16:module011:module2')
+  api project(':module16:module102:module1')
+  api 'io.reactivex.rxjava2:rxjava:2.2.21'
+  compileOnly 'androidx.annotation:annotation:1.0.0'
+  implementation 'org.jetbrains.kotlin:kotlin-bom:1.7.20'
+}

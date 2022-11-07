@@ -1,0 +1,6 @@
+<resources>
+    <dimen name="android_nice_aaad">55dp</dimen>
+    <dimen name="face_constable_min_aaaa">252px</dimen>
+    <dimen name="pie_aaac">1080pt</dimen>
+    <dimen name="pie_wire_cookie_aaab">29dp</dimen>
+</resources>

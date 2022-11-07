@@ -1,0 +1,26 @@
+<resources>
+    <dimen name="delivery_aaaa">1240dp</dimen>
+    <dimen name="delivery_aaab">170in</dimen>
+    <dimen name="min_constable_max_aaac">1507pt</dimen>
+    <dimen name="face_constable_aaad">849pt</dimen>
+    <dimen name="awesome_aaae">2022mm</dimen>
+    <dimen name="cookie_cookie_pizza_aaaf">450in</dimen>
+    <dimen name="face_pizza_aaag">1056pt</dimen>
+    <dimen name="delivery_aaah">712px</dimen>
+    <dimen name="writer_cookie_aaai">1964sp</dimen>
+    <dimen name="writer_aaaj">1661pt</dimen>
+    <dimen name="delivery_android_nice_aaak">665sp</dimen>
+    <dimen name="wire_chocolate_aaal">1435sp</dimen>
+    <dimen name="wire_delivery_aaam">1087pt</dimen>
+    <dimen name="vanilla_the_cookie_aaan">524pt</dimen>
+    <dimen name="name_party_nice_aaao">485sp</dimen>
+    <dimen name="vanilla_aaap">408mm</dimen>
+    <dimen name="cookie_aaaq">593dp</dimen>
+    <dimen name="awesome_awesome_awesome_aaar">553dp</dimen>
+    <dimen name="cool_party_awesome_aaas">1794pt</dimen>
+    <dimen name="face_constable_awesome_aaat">803dp</dimen>
+    <dimen name="wire_aaau">1319mm</dimen>
+    <dimen name="pie_aaav">609px</dimen>
+    <dimen name="pizza_strawberry_aaaw">1920px</dimen>
+    <dimen name="android_etc._constable_aaax">501sp</dimen>
+</resources>

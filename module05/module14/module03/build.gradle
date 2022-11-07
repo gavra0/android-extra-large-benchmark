@@ -1,0 +1,62 @@
+plugins {
+  id 'com.android.library'
+  id 'org.jetbrains.kotlin.android'
+}
+android {
+  compileSdkVersion = 'android-32'
+  defaultConfig {
+    minSdkVersion 24
+    targetSdkVersion 31
+  }
+  compileOptions {
+    sourceCompatibility = JavaVersion.VERSION_1_8
+    targetCompatibility = JavaVersion.VERSION_1_8
+  }
+  kotlinOptions {
+    jvmTarget = '1.8'
+  }
+  buildFeatures {
+    buildConfig = false
+    androidResources = true
+  }
+}
+dependencies {
+  androidTestImplementation 'androidx.annotation:annotation:1.0.0'
+  api project(':module05:module14:module14')
+  api project(':module05:module39:module2')
+  api project(':module07:module085:module1')
+  api project(':module07:module194:module1')
+  api 'com.google.dagger:dagger:2.43.1'
+  api 'javax.inject:javax.inject:1'
+  compileOnly 'androidx.annotation:annotation:1.0.0'
+  implementation project(':module01:module09:module1')
+  implementation project(':module05:module01:module3')
+  implementation project(':module05:module02:module4')
+  implementation project(':module05:module05')
+  implementation project(':module05:module06:module1')
+  implementation project(':module05:module07')
+  implementation project(':module05:module08:module2')
+  implementation project(':module05:module09:module4')
+  implementation project(':module05:module14:module13')
+  implementation project(':module05:module26:module1')
+  implementation project(':module07:module002:module3')
+  implementation project(':module07:module054:module3')
+  implementation project(':module07:module108:module1')
+  implementation project(':module07:module112')
+  implementation project(':module07:module204:module4')
+  implementation project(':module07:module215')
+  implementation project(':module07:module241')
+  implementation project(':module07:module249:module6')
+  implementation project(':module07:module254:module4')
+  implementation project(':module07:module278')
+  implementation project(':module07:module358:module1')
+  implementation project(':module07:module368:module1')
+  implementation project(':module07:module487:module1')
+  implementation project(':module07:module507:module1')
+  implementation project(':module07:module591:module1:module2')
+  implementation project(':module07:module602')
+  implementation project(':module07:module599:module1')
+  implementation project(':module16:module012:module1')
+  implementation 'org.jetbrains.kotlin:kotlin-bom:1.7.20'
+  testImplementation project(':module07:module249:module7')
+}

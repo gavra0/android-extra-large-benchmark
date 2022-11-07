@@ -1,0 +1,10 @@
+<resources>
+    <dimen name="cool_delivery_aaaa">1078in</dimen>
+    <dimen name="pizza_delivery_cool_aaab">68px</dimen>
+    <dimen name="face_cool_vanilla_aaac">1776dp</dimen>
+    <dimen name="vanilla_android_cool_aaad">1157mm</dimen>
+    <dimen name="constable_aaae">1996px</dimen>
+    <dimen name="max_aaaf">748in</dimen>
+    <dimen name="chocolate_pizza_aaag">997mm</dimen>
+    <dimen name="cool_android_pie_aaah">177sp</dimen>
+</resources>

@@ -1,0 +1,14 @@
+<resources>
+    <dimen name="delivery_aaaa">101dp</dimen>
+    <dimen name="strawberry_nice_min_aaab">1147pt</dimen>
+    <dimen name="wire_nice_aaac">1331in</dimen>
+    <dimen name="etc._face_min_aaad">1912pt</dimen>
+    <dimen name="face_aaae">1326sp</dimen>
+    <dimen name="pizza_cookie_aaaf">755px</dimen>
+    <dimen name="cool_aaag">1631mm</dimen>
+    <dimen name="etc._aaah">1402sp</dimen>
+    <dimen name="cool_android_nice_aaai">42in</dimen>
+    <dimen name="pie_aaaj">267sp</dimen>
+    <dimen name="pie_aaak">2010px</dimen>
+    <dimen name="vanilla_aaal">2040dp</dimen>
+</resources>

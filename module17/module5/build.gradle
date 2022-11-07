@@ -1,0 +1,59 @@
+plugins {
+  id 'com.android.application'
+}
+android {
+  compileSdkVersion = 'android-32'
+  defaultConfig {
+    minSdkVersion 24
+    targetSdkVersion 31
+  }
+  compileOptions {
+    sourceCompatibility = JavaVersion.VERSION_1_8
+    targetCompatibility = JavaVersion.VERSION_1_8
+  }
+  buildFeatures {
+    buildConfig = false
+  }
+}
+dependencies {
+  androidTestImplementation project(':module03:module04:module1')
+  androidTestImplementation project(':module05:module01:module3')
+  androidTestImplementation project(':module05:module06:module1')
+  androidTestImplementation project(':module05:module14:module10')
+  androidTestImplementation project(':module06:module05:module23:module2')
+  androidTestImplementation project(':module06:module05:module24:module2')
+  androidTestImplementation project(':module06:module05:module25:module2')
+  androidTestImplementation project(':module06:module05:module28:module2')
+  androidTestImplementation project(':module06:module16:module09')
+  androidTestImplementation project(':module07:module185:module1')
+  androidTestImplementation project(':module07:module205:module3')
+  androidTestImplementation project(':module07:module249:module5')
+  androidTestImplementation project(':module07:module266:module1')
+  androidTestImplementation project(':module07:module306:module1')
+  androidTestImplementation project(':module07:module417:module3')
+  androidTestImplementation project(':module07:module505:module1')
+  androidTestImplementation project(':module07:module583:module1')
+  androidTestImplementation project(':module07:module585:module1')
+  androidTestImplementation project(':module09:module1:module1')
+  androidTestImplementation project(':module09:module2:module1')
+  androidTestImplementation project(':module08:module12:module1')
+  androidTestImplementation project(':module08:module16:module2')
+  androidTestImplementation project(':module10:module4')
+  androidTestImplementation project(':module11:module1')
+  androidTestImplementation project(':module16:module035:module1')
+  androidTestImplementation 'androidx.annotation:annotation:1.0.0'
+  androidTestImplementation 'androidx.test.espresso:espresso-contrib:3.3.0'
+  androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
+  androidTestImplementation 'androidx.test.espresso:espresso-idling-resource:3.3.0'
+  androidTestImplementation 'androidx.test:rules:1.4.0'
+  androidTestImplementation 'androidx.test:runner:1.4.0'
+  androidTestImplementation 'com.google.dagger:dagger:2.43.1'
+  androidTestImplementation 'com.google.truth:truth:1.1.3'
+  androidTestImplementation 'com.squareup.anvil:annotations:2.4.1'
+  androidTestImplementation 'com.squareup.leakcanary:leakcanary-android-instrumentation:2.9.1'
+  androidTestImplementation 'junit:junit:4.13.2'
+  compileOnly 'androidx.annotation:annotation:1.0.0'
+  implementation project(':module07:module108:module1')
+  implementation project(':module07:module343:module4')
+  implementation project(':module17:module4')
+}

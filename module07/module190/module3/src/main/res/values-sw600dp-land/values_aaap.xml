@@ -1,0 +1,12 @@
+<resources>
+    <dimen name="android_aaah">437dp</dimen>
+    <dimen name="awesome_aaac">1382dp</dimen>
+    <dimen name="awesome_aaaj">143in</dimen>
+    <dimen name="chocolate_aaad">1829px</dimen>
+    <dimen name="delivery_cookie_vanilla_aaae">1989px</dimen>
+    <dimen name="face_writer_name_aaaf">1050dp</dimen>
+    <dimen name="nice_aaai">183pt</dimen>
+    <dimen name="pie_aaaa">107mm</dimen>
+    <dimen name="pie_android_cookie_aaab">1990in</dimen>
+    <dimen name="pizza_aaag">1982sp</dimen>
+</resources>

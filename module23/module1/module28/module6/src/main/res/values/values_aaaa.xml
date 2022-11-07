@@ -1,0 +1,11 @@
+<resources>
+    <dimen name="pizza_name_aaaa">991mm</dimen>
+    <dimen name="constable_aaab">1827mm</dimen>
+    <dimen name="name_android_aaac">720mm</dimen>
+    <dimen name="vanilla_aaad">805in</dimen>
+    <dimen name="min_aaae">366px</dimen>
+    <dimen name="the_aaaf">1716sp</dimen>
+    <dimen name="face_aaag">657sp</dimen>
+    <dimen name="etc._max_aaah">696sp</dimen>
+    <dimen name="strawberry_nice_cool_aaai">1373pt</dimen>
+</resources>

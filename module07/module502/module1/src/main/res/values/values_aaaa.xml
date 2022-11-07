@@ -1,0 +1,9 @@
+<resources>
+    <dimen name="min_wire_aaaa">1336mm</dimen>
+    <dimen name="party_pie_max_aaab">1034sp</dimen>
+    <dimen name="chocolate_cookie_nice_aaac">283in</dimen>
+    <dimen name="constable_writer_aaad">916in</dimen>
+    <dimen name="constable_min_aaae">1570in</dimen>
+    <dimen name="chocolate_aaaf">129dp</dimen>
+    <dimen name="nice_aaag">748sp</dimen>
+</resources>

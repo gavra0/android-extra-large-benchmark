@@ -1,0 +1,9 @@
+<resources>
+    <dimen name="android_pizza_min_aaaa">1800px</dimen>
+    <dimen name="pie_aaab">917mm</dimen>
+    <dimen name="constable_name_aaac">1731dp</dimen>
+    <dimen name="etc._etc._aaad">1381mm</dimen>
+    <dimen name="writer_min_constable_aaae">643dp</dimen>
+    <dimen name="nice_name_cookie_aaaf">1448dp</dimen>
+    <dimen name="cookie_android_nice_aaag">1534dp</dimen>
+</resources>

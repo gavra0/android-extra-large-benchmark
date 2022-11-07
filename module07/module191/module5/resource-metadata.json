@@ -1,0 +1,34 @@
+{
+  "androidResources": {
+    "animator": [],
+    "anim": [],
+    "color": [],
+    "drawable": [],
+    "font": [],
+    "layout": [],
+    "menu": [],
+    "mipmap": [],
+    "navigation": [],
+    "raw": [],
+    "transition": [],
+    "values": [],
+    "xml": []
+  },
+  "javaResources": {
+    "json": [
+      58004,
+      117767,
+      18198,
+      70894,
+      4889,
+      20518,
+      25023,
+      38157,
+      254969,
+      99742,
+      13583,
+      56636
+    ]
+  },
+  "assets": {}
+}

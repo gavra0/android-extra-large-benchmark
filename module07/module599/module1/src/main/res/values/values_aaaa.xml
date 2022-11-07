@@ -1,0 +1,16 @@
+<resources>
+    <bool name="cookie_max_aaaa">false</bool>
+    <bool name="face_pie_wire_aaab">false</bool>
+    <color name="wire_cool_max_aaaa">#3e7f</color>
+    <color name="the_aaab">#5937</color>
+    <color name="min_writer_vanilla_aaac">#707b7b</color>
+    <color name="delivery_max_aaad">#566209</color>
+    <dimen name="face_chocolate_delivery_aaaa">781dp</dimen>
+    <dimen name="etc._etc._nice_aaab">1098mm</dimen>
+    <dimen name="cool_face_wire_aaac">1570pt</dimen>
+    <dimen name="max_aaad">1575in</dimen>
+    <dimen name="party_name_vanilla_aaae">1541px</dimen>
+    <dimen name="pie_aaaf">1594pt</dimen>
+    <dimen name="chocolate_min_min_aaag">437in</dimen>
+    <dimen name="pizza_chocolate_aaah">1947mm</dimen>
+</resources>

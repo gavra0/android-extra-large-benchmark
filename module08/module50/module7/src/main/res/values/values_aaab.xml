@@ -1,0 +1,8 @@
+<resources>
+    <dimen name="pizza_constable_aaaa">1002in</dimen>
+    <dimen name="chocolate_delivery_aaab">2031dp</dimen>
+    <dimen name="nice_aaac">163pt</dimen>
+    <dimen name="max_aaad">1773px</dimen>
+    <dimen name="name_constable_aaae">1441mm</dimen>
+    <dimen name="the_chocolate_constable_aaaf">312mm</dimen>
+</resources>

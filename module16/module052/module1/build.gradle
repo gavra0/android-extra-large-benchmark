@@ -1,0 +1,13 @@
+plugins {
+  id 'java-library'
+  id 'java'
+  id 'org.jetbrains.kotlin.jvm'
+}
+dependencies {
+  api project(':module16:module033:module1')
+  api project(':module16:module051:module1')
+  api 'com.squareup.wire:wire-runtime:4.4.0'
+  compileOnly project(':module25:module5:module1')
+  compileOnly 'androidx.annotation:annotation:1.0.0'
+  implementation 'org.jetbrains.kotlin:kotlin-bom:1.7.20'
+}

@@ -1,0 +1,16 @@
+<resources>
+    <dimen name="writer_vanilla_max_aaaa">1221pt</dimen>
+    <dimen name="writer_android_nice_aaab">1046mm</dimen>
+    <dimen name="name_aaac">938in</dimen>
+    <dimen name="cookie_aaad">1492mm</dimen>
+    <dimen name="pizza_max_min_aaae">913sp</dimen>
+    <dimen name="party_strawberry_pizza_aaaf">7px</dimen>
+    <dimen name="cool_strawberry_aaag">354in</dimen>
+    <dimen name="face_etc._writer_aaah">296mm</dimen>
+    <dimen name="min_name_aaai">1602px</dimen>
+    <dimen name="chocolate_android_aaaj">1629in</dimen>
+    <dimen name="min_writer_aaak">33sp</dimen>
+    <dimen name="awesome_chocolate_aaal">1591in</dimen>
+    <dimen name="writer_aaam">1273dp</dimen>
+    <dimen name="cool_etc._aaan">1019px</dimen>
+</resources>

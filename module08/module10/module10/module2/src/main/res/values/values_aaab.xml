@@ -1,0 +1,13 @@
+<resources>
+    <dimen name="delivery_aaaa">1385in</dimen>
+    <dimen name="writer_delivery_aaab">1842dp</dimen>
+    <dimen name="face_constable_delivery_aaac">192sp</dimen>
+    <dimen name="pizza_aaad">1733in</dimen>
+    <dimen name="face_the_strawberry_aaae">860dp</dimen>
+    <dimen name="name_name_aaaf">907pt</dimen>
+    <dimen name="delivery_aaag">1793in</dimen>
+    <dimen name="nice_aaah">584sp</dimen>
+    <dimen name="face_chocolate_party_aaai">1296dp</dimen>
+    <dimen name="min_etc._aaaj">450px</dimen>
+    <dimen name="nice_cookie_constable_aaak">634pt</dimen>
+</resources>

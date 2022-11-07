@@ -1,0 +1,11 @@
+<resources>
+    <dimen name="constable_aaab">1306px</dimen>
+    <dimen name="etc._max_aaah">1345in</dimen>
+    <dimen name="face_aaag">1904px</dimen>
+    <dimen name="min_aaae">158in</dimen>
+    <dimen name="name_android_aaac">1968in</dimen>
+    <dimen name="pizza_name_aaaa">1975dp</dimen>
+    <dimen name="strawberry_nice_cool_aaai">34in</dimen>
+    <dimen name="the_aaaf">1165mm</dimen>
+    <dimen name="vanilla_aaad">1034mm</dimen>
+</resources>

@@ -1,0 +1,1405 @@
+{
+  "androidResources": {
+    "animator": [],
+    "anim": [],
+    "color": [],
+    "drawable": [
+      {
+        "qualifiers": "ca-rES-hdpi",
+        "extension": "webp",
+        "quantity": 3,
+        "fileData": [
+          46026,
+          39852,
+          48736
+        ]
+      },
+      {
+        "qualifiers": "ca-rES-mdpi",
+        "extension": "webp",
+        "quantity": 3,
+        "fileData": [
+          23544,
+          20556,
+          26850
+        ]
+      },
+      {
+        "qualifiers": "ca-rES-sw600dp-hdpi",
+        "extension": "webp",
+        "quantity": 3,
+        "fileData": [
+          191952,
+          151502,
+          161078
+        ]
+      },
+      {
+        "qualifiers": "ca-rES-sw600dp-mdpi",
+        "extension": "webp",
+        "quantity": 3,
+        "fileData": [
+          94604,
+          79364,
+          84856
+        ]
+      },
+      {
+        "qualifiers": "ca-rES-sw600dp-xhdpi",
+        "extension": "webp",
+        "quantity": 3,
+        "fileData": [
+          311400,
+          237792,
+          254310
+        ]
+      },
+      {
+        "qualifiers": "ca-rES-sw600dp-xxhdpi",
+        "extension": "webp",
+        "quantity": 3,
+        "fileData": [
+          616050,
+          512720,
+          533812
+        ]
+      },
+      {
+        "qualifiers": "ca-rES-sw600dp-xxxhdpi",
+        "extension": "webp",
+        "quantity": 3,
+        "fileData": [
+          1021694,
+          841864,
+          860314
+        ]
+      },
+      {
+        "qualifiers": "ca-rES-xhdpi",
+        "extension": "webp",
+        "quantity": 3,
+        "fileData": [
+          79224,
+          68710,
+          84812
+        ]
+      },
+      {
+        "qualifiers": "ca-rES-xxhdpi",
+        "extension": "webp",
+        "quantity": 3,
+        "fileData": [
+          161226,
+          139630,
+          170866
+        ]
+      },
+      {
+        "qualifiers": "ca-rES-xxxhdpi",
+        "extension": "webp",
+        "quantity": 3,
+        "fileData": [
+          266902,
+          231326,
+          283516
+        ]
+      },
+      {
+        "qualifiers": "en-rAU-hdpi",
+        "extension": "webp",
+        "quantity": 3,
+        "fileData": [
+          74526,
+          49000,
+          92348
+        ]
+      },
+      {
+        "qualifiers": "en-rAU-mdpi",
+        "extension": "webp",
+        "quantity": 3,
+        "fileData": [
+          41474,
+          25446,
+          50462
+        ]
+      },
+      {
+        "qualifiers": "en-rAU-sw600dp-hdpi",
+        "extension": "webp",
+        "quantity": 3,
+        "fileData": [
+          145772,
+          246142,
+          220682
+        ]
+      },
+      {
+        "qualifiers": "en-rAU-sw600dp-land-hdpi",
+        "extension": "webp",
+        "quantity": 3,
+        "fileData": [
+          126290,
+          125080,
+          139000
+        ]
+      },
+      {
+        "qualifiers": "en-rAU-sw600dp-land-mdpi",
+        "extension": "webp",
+        "quantity": 3,
+        "fileData": [
+          65912,
+          67078,
+          80220
+        ]
+      },
+      {
+        "qualifiers": "en-rAU-sw600dp-land-xhdpi",
+        "extension": "webp",
+        "quantity": 3,
+        "fileData": [
+          195030,
+          188696,
+          205696
+        ]
+      },
+      {
+        "qualifiers": "en-rAU-sw600dp-land-xxxhdpi",
+        "extension": "webp",
+        "quantity": 3,
+        "fileData": [
+          619498,
+          620678,
+          603488
+        ]
+      },
+      {
+        "qualifiers": "en-rAU-sw600dp-mdpi",
+        "extension": "webp",
+        "quantity": 3,
+        "fileData": [
+          77328,
+          125040,
+          118812
+        ]
+      },
+      {
+        "qualifiers": "en-rAU-sw600dp-xhdpi",
+        "extension": "webp",
+        "quantity": 3,
+        "fileData": [
+          224026,
+          391480,
+          332648
+        ]
+      },
+      {
+        "qualifiers": "en-rAU-sw600dp-xxxhdpi",
+        "extension": "webp",
+        "quantity": 3,
+        "fileData": [
+          708740,
+          1343502,
+          1055210
+        ]
+      },
+      {
+        "qualifiers": "en-rAU-xhdpi",
+        "extension": "webp",
+        "quantity": 3,
+        "fileData": [
+          121002,
+          84096,
+          150904
+        ]
+      },
+      {
+        "qualifiers": "en-rAU-xxxhdpi",
+        "extension": "webp",
+        "quantity": 3,
+        "fileData": [
+          391152,
+          288432,
+          496668
+        ]
+      },
+      {
+        "qualifiers": "en-rCA-hdpi",
+        "extension": "webp",
+        "quantity": 1,
+        "fileData": [
+          74504
+        ]
+      },
+      {
+        "qualifiers": "en-rCA-mdpi",
+        "extension": "webp",
+        "quantity": 1,
+        "fileData": [
+          41520
+        ]
+      },
+      {
+        "qualifiers": "en-rCA-sw600dp-hdpi",
+        "extension": "webp",
+        "quantity": 1,
+        "fileData": [
+          146282
+        ]
+      },
+      {
+        "qualifiers": "en-rCA-sw600dp-land-hdpi",
+        "extension": "webp",
+        "quantity": 1,
+        "fileData": [
+          126474
+        ]
+      },
+      {
+        "qualifiers": "en-rCA-sw600dp-land-mdpi",
+        "extension": "webp",
+        "quantity": 1,
+        "fileData": [
+          65954
+        ]
+      },
+      {
+        "qualifiers": "en-rCA-sw600dp-land-xhdpi",
+        "extension": "webp",
+        "quantity": 1,
+        "fileData": [
+          195024
+        ]
+      },
+      {
+        "qualifiers": "en-rCA-sw600dp-land-xxxhdpi",
+        "extension": "webp",
+        "quantity": 1,
+        "fileData": [
+          619774
+        ]
+      },
+      {
+        "qualifiers": "en-rCA-sw600dp-mdpi",
+        "extension": "webp",
+        "quantity": 1,
+        "fileData": [
+          77926
+        ]
+      },
+      {
+        "qualifiers": "en-rCA-sw600dp-xhdpi",
+        "extension": "webp",
+        "quantity": 1,
+        "fileData": [
+          224558
+        ]
+      },
+      {
+        "qualifiers": "en-rCA-sw600dp-xxxhdpi",
+        "extension": "webp",
+        "quantity": 1,
+        "fileData": [
+          709482
+        ]
+      },
+      {
+        "qualifiers": "en-rCA-xhdpi",
+        "extension": "webp",
+        "quantity": 1,
+        "fileData": [
+          121170
+        ]
+      },
+      {
+        "qualifiers": "en-rCA-xxxhdpi",
+        "extension": "webp",
+        "quantity": 1,
+        "fileData": [
+          392826
+        ]
+      },
+      {
+        "qualifiers": "en-rGB-hdpi",
+        "extension": "webp",
+        "quantity": 3,
+        "fileData": [
+          75268,
+          72982,
+          79982
+        ]
+      },
+      {
+        "qualifiers": "en-rGB-mdpi",
+        "extension": "webp",
+        "quantity": 3,
+        "fileData": [
+          41630,
+          37236,
+          43364
+        ]
+      },
+      {
+        "qualifiers": "en-rGB-sw600dp-hdpi",
+        "extension": "webp",
+        "quantity": 3,
+        "fileData": [
+          145948,
+          246084,
+          218726
+        ]
+      },
+      {
+        "qualifiers": "en-rGB-sw600dp-land-hdpi",
+        "extension": "webp",
+        "quantity": 3,
+        "fileData": [
+          126194,
+          122558,
+          138034
+        ]
+      },
+      {
+        "qualifiers": "en-rGB-sw600dp-land-mdpi",
+        "extension": "webp",
+        "quantity": 3,
+        "fileData": [
+          65792,
+          66074,
+          79462
+        ]
+      },
+      {
+        "qualifiers": "en-rGB-sw600dp-land-xhdpi",
+        "extension": "webp",
+        "quantity": 3,
+        "fileData": [
+          194764,
+          187912,
+          202512
+        ]
+      },
+      {
+        "qualifiers": "en-rGB-sw600dp-land-xxxhdpi",
+        "extension": "webp",
+        "quantity": 3,
+        "fileData": [
+          619762,
+          616462,
+          600328
+        ]
+      },
+      {
+        "qualifiers": "en-rGB-sw600dp-mdpi",
+        "extension": "webp",
+        "quantity": 3,
+        "fileData": [
+          77594,
+          124754,
+          118416
+        ]
+      },
+      {
+        "qualifiers": "en-rGB-sw600dp-xhdpi",
+        "extension": "webp",
+        "quantity": 3,
+        "fileData": [
+          224008,
+          391160,
+          331782
+        ]
+      },
+      {
+        "qualifiers": "en-rGB-sw600dp-xxxhdpi",
+        "extension": "webp",
+        "quantity": 3,
+        "fileData": [
+          708146,
+          1342624,
+          1053010
+        ]
+      },
+      {
+        "qualifiers": "en-rGB-xhdpi",
+        "extension": "webp",
+        "quantity": 3,
+        "fileData": [
+          121706,
+          118214,
+          125000
+        ]
+      },
+      {
+        "qualifiers": "en-rGB-xxxhdpi",
+        "extension": "webp",
+        "quantity": 3,
+        "fileData": [
+          391870,
+          420348,
+          399960
+        ]
+      },
+      {
+        "qualifiers": "en-rIE-hdpi",
+        "extension": "webp",
+        "quantity": 1,
+        "fileData": [
+          70494
+        ]
+      },
+      {
+        "qualifiers": "en-rIE-mdpi",
+        "extension": "webp",
+        "quantity": 1,
+        "fileData": [
+          38432
+        ]
+      },
+      {
+        "qualifiers": "en-rIE-sw600dp-hdpi",
+        "extension": "webp",
+        "quantity": 1,
+        "fileData": [
+          243196
+        ]
+      },
+      {
+        "qualifiers": "en-rIE-sw600dp-mdpi",
+        "extension": "webp",
+        "quantity": 1,
+        "fileData": [
+          129672
+        ]
+      },
+      {
+        "qualifiers": "en-rIE-sw600dp-xhdpi",
+        "extension": "webp",
+        "quantity": 1,
+        "fileData": [
+          387420
+        ]
+      },
+      {
+        "qualifiers": "en-rIE-sw600dp-xxxhdpi",
+        "extension": "webp",
+        "quantity": 1,
+        "fileData": [
+          1260194
+        ]
+      },
+      {
+        "qualifiers": "en-rIE-xhdpi",
+        "extension": "webp",
+        "quantity": 1,
+        "fileData": [
+          110748
+        ]
+      },
+      {
+        "qualifiers": "en-rIE-xxxhdpi",
+        "extension": "webp",
+        "quantity": 1,
+        "fileData": [
+          359062
+        ]
+      },
+      {
+        "qualifiers": "es-rES-hdpi",
+        "extension": "webp",
+        "quantity": 3,
+        "fileData": [
+          46316,
+          40126,
+          54968
+        ]
+      },
+      {
+        "qualifiers": "es-rES-mdpi",
+        "extension": "webp",
+        "quantity": 3,
+        "fileData": [
+          24006,
+          20830,
+          28540
+        ]
+      },
+      {
+        "qualifiers": "es-rES-sw600dp-hdpi",
+        "extension": "webp",
+        "quantity": 4,
+        "fileData": [
+          183432,
+          153148,
+          153036,
+          165518
+        ]
+      },
+      {
+        "qualifiers": "es-rES-sw600dp-land-hdpi",
+        "extension": "webp",
+        "quantity": 4,
+        "fileData": [
+          183432,
+          153148,
+          153036,
+          165518
+        ]
+      },
+      {
+        "qualifiers": "es-rES-sw600dp-land-mdpi",
+        "extension": "webp",
+        "quantity": 4,
+        "fileData": [
+          95048,
+          81384,
+          79092,
+          87768
+        ]
+      },
+      {
+        "qualifiers": "es-rES-sw600dp-land-xhdpi",
+        "extension": "webp",
+        "quantity": 4,
+        "fileData": [
+          295364,
+          242402,
+          249648,
+          262060
+        ]
+      },
+      {
+        "qualifiers": "es-rES-sw600dp-land-xxxhdpi",
+        "extension": "webp",
+        "quantity": 4,
+        "fileData": [
+          974316,
+          799548,
+          859412,
+          826616
+        ]
+      },
+      {
+        "qualifiers": "es-rES-sw600dp-mdpi",
+        "extension": "webp",
+        "quantity": 4,
+        "fileData": [
+          95048,
+          81384,
+          79092,
+          87768
+        ]
+      },
+      {
+        "qualifiers": "es-rES-sw600dp-xhdpi",
+        "extension": "webp",
+        "quantity": 4,
+        "fileData": [
+          295364,
+          242402,
+          249648,
+          262060
+        ]
+      },
+      {
+        "qualifiers": "es-rES-sw600dp-xxxhdpi",
+        "extension": "webp",
+        "quantity": 4,
+        "fileData": [
+          974316,
+          799548,
+          859412,
+          826616
+        ]
+      },
+      {
+        "qualifiers": "es-rES-xhdpi",
+        "extension": "webp",
+        "quantity": 3,
+        "fileData": [
+          74790,
+          64358,
+          89564
+        ]
+      },
+      {
+        "qualifiers": "es-rES-xxxhdpi",
+        "extension": "webp",
+        "quantity": 3,
+        "fileData": [
+          248276,
+          215302,
+          303360
+        ]
+      },
+      {
+        "qualifiers": "es-rUS-hdpi",
+        "extension": "webp",
+        "quantity": 2,
+        "fileData": [
+          74820,
+          93674
+        ]
+      },
+      {
+        "qualifiers": "es-rUS-mdpi",
+        "extension": "webp",
+        "quantity": 2,
+        "fileData": [
+          41012,
+          51458
+        ]
+      },
+      {
+        "qualifiers": "es-rUS-sw600dp-hdpi",
+        "extension": "webp",
+        "quantity": 3,
+        "fileData": [
+          151436,
+          247578,
+          224580
+        ]
+      },
+      {
+        "qualifiers": "es-rUS-sw600dp-land-hdpi",
+        "extension": "webp",
+        "quantity": 3,
+        "fileData": [
+          128438,
+          124332,
+          142010
+        ]
+      },
+      {
+        "qualifiers": "es-rUS-sw600dp-land-mdpi",
+        "extension": "webp",
+        "quantity": 3,
+        "fileData": [
+          66312,
+          66714,
+          81800
+        ]
+      },
+      {
+        "qualifiers": "es-rUS-sw600dp-land-xhdpi",
+        "extension": "webp",
+        "quantity": 3,
+        "fileData": [
+          198808,
+          190234,
+          209730
+        ]
+      },
+      {
+        "qualifiers": "es-rUS-sw600dp-land-xxxhdpi",
+        "extension": "webp",
+        "quantity": 3,
+        "fileData": [
+          622368,
+          621022,
+          614114
+        ]
+      },
+      {
+        "qualifiers": "es-rUS-sw600dp-mdpi",
+        "extension": "webp",
+        "quantity": 3,
+        "fileData": [
+          81034,
+          125942,
+          122182
+        ]
+      },
+      {
+        "qualifiers": "es-rUS-sw600dp-xhdpi",
+        "extension": "webp",
+        "quantity": 3,
+        "fileData": [
+          233968,
+          395480,
+          339926
+        ]
+      },
+      {
+        "qualifiers": "es-rUS-sw600dp-xxxhdpi",
+        "extension": "webp",
+        "quantity": 3,
+        "fileData": [
+          727008,
+          1350788,
+          1070934
+        ]
+      },
+      {
+        "qualifiers": "es-rUS-xhdpi",
+        "extension": "webp",
+        "quantity": 2,
+        "fileData": [
+          120722,
+          153024
+        ]
+      },
+      {
+        "qualifiers": "es-rUS-xxxhdpi",
+        "extension": "webp",
+        "quantity": 2,
+        "fileData": [
+          392324,
+          501782
+        ]
+      },
+      {
+        "qualifiers": "fr-rCA-hdpi",
+        "extension": "webp",
+        "quantity": 3,
+        "fileData": [
+          74554,
+          49920,
+          93782
+        ]
+      },
+      {
+        "qualifiers": "fr-rCA-mdpi",
+        "extension": "webp",
+        "quantity": 3,
+        "fileData": [
+          41844,
+          25996,
+          51690
+        ]
+      },
+      {
+        "qualifiers": "fr-rCA-sw600dp-hdpi",
+        "extension": "webp",
+        "quantity": 3,
+        "fileData": [
+          147580,
+          246020,
+          220838
+        ]
+      },
+      {
+        "qualifiers": "fr-rCA-sw600dp-land-hdpi",
+        "extension": "webp",
+        "quantity": 3,
+        "fileData": [
+          125442,
+          123710,
+          138614
+        ]
+      },
+      {
+        "qualifiers": "fr-rCA-sw600dp-land-mdpi",
+        "extension": "webp",
+        "quantity": 3,
+        "fileData": [
+          65968,
+          66520,
+          79622
+        ]
+      },
+      {
+        "qualifiers": "fr-rCA-sw600dp-land-xhdpi",
+        "extension": "webp",
+        "quantity": 3,
+        "fileData": [
+          196232,
+          188644,
+          205600
+        ]
+      },
+      {
+        "qualifiers": "fr-rCA-sw600dp-land-xxxhdpi",
+        "extension": "webp",
+        "quantity": 3,
+        "fileData": [
+          617552,
+          619540,
+          603762
+        ]
+      },
+      {
+        "qualifiers": "fr-rCA-sw600dp-mdpi",
+        "extension": "webp",
+        "quantity": 3,
+        "fileData": [
+          78110,
+          125052,
+          119120
+        ]
+      },
+      {
+        "qualifiers": "fr-rCA-sw600dp-xhdpi",
+        "extension": "webp",
+        "quantity": 3,
+        "fileData": [
+          226866,
+          390556,
+          334126
+        ]
+      },
+      {
+        "qualifiers": "fr-rCA-sw600dp-xxxhdpi",
+        "extension": "webp",
+        "quantity": 3,
+        "fileData": [
+          714912,
+          1345742,
+          1059888
+        ]
+      },
+      {
+        "qualifiers": "fr-rCA-xhdpi",
+        "extension": "webp",
+        "quantity": 3,
+        "fileData": [
+          120512,
+          85346,
+          154140
+        ]
+      },
+      {
+        "qualifiers": "fr-rCA-xxxhdpi",
+        "extension": "webp",
+        "quantity": 3,
+        "fileData": [
+          390422,
+          291464,
+          503204
+        ]
+      },
+      {
+        "qualifiers": "fr-rFR-hdpi",
+        "extension": "webp",
+        "quantity": 3,
+        "fileData": [
+          70766,
+          64806,
+          81740
+        ]
+      },
+      {
+        "qualifiers": "fr-rFR-mdpi",
+        "extension": "webp",
+        "quantity": 3,
+        "fileData": [
+          38176,
+          35512,
+          44510
+        ]
+      },
+      {
+        "qualifiers": "fr-rFR-sw600dp-land-hdpi",
+        "extension": "webp",
+        "quantity": 4,
+        "fileData": [
+          255220,
+          218470,
+          258852,
+          246110
+        ]
+      },
+      {
+        "qualifiers": "fr-rFR-sw600dp-land-mdpi",
+        "extension": "webp",
+        "quantity": 4,
+        "fileData": [
+          138516,
+          116730,
+          138394,
+          139820
+        ]
+      },
+      {
+        "qualifiers": "fr-rFR-sw600dp-land-xhdpi",
+        "extension": "webp",
+        "quantity": 4,
+        "fileData": [
+          402410,
+          346620,
+          423846,
+          379064
+        ]
+      },
+      {
+        "qualifiers": "fr-rFR-sw600dp-land-xxxhdpi",
+        "extension": "webp",
+        "quantity": 4,
+        "fileData": [
+          1292768,
+          1174658,
+          1431824,
+          1185514
+        ]
+      },
+      {
+        "qualifiers": "fr-rFR-xhdpi",
+        "extension": "webp",
+        "quantity": 3,
+        "fileData": [
+          110510,
+          100386,
+          126018
+        ]
+      },
+      {
+        "qualifiers": "fr-rFR-xxxhdpi",
+        "extension": "webp",
+        "quantity": 3,
+        "fileData": [
+          359254,
+          315100,
+          403520
+        ]
+      },
+      {
+        "qualifiers": "hdpi",
+        "extension": "webp",
+        "quantity": 4,
+        "fileData": [
+          33100,
+          75612,
+          83826,
+          91946
+        ]
+      },
+      {
+        "qualifiers": "ja-hdpi",
+        "extension": "webp",
+        "quantity": 3,
+        "fileData": [
+          46678,
+          40518,
+          54048
+        ]
+      },
+      {
+        "qualifiers": "ja-mdpi",
+        "extension": "webp",
+        "quantity": 3,
+        "fileData": [
+          24144,
+          21116,
+          28088
+        ]
+      },
+      {
+        "qualifiers": "ja-sw600dp-hdpi",
+        "extension": "webp",
+        "quantity": 4,
+        "fileData": [
+          187770,
+          152232,
+          263988,
+          151090
+        ]
+      },
+      {
+        "qualifiers": "ja-sw600dp-mdpi",
+        "extension": "webp",
+        "quantity": 4,
+        "fileData": [
+          97152,
+          80948,
+          139550,
+          79944
+        ]
+      },
+      {
+        "qualifiers": "ja-sw600dp-xhdpi",
+        "extension": "webp",
+        "quantity": 4,
+        "fileData": [
+          300918,
+          242148,
+          263988,
+          242396
+        ]
+      },
+      {
+        "qualifiers": "ja-sw600dp-xxxhdpi",
+        "extension": "webp",
+        "quantity": 4,
+        "fileData": [
+          988498,
+          801040,
+          849250,
+          780238
+        ]
+      },
+      {
+        "qualifiers": "ja-xhdpi",
+        "extension": "webp",
+        "quantity": 3,
+        "fileData": [
+          74940,
+          64852,
+          88128
+        ]
+      },
+      {
+        "qualifiers": "ja-xxxhdpi",
+        "extension": "webp",
+        "quantity": 3,
+        "fileData": [
+          249524,
+          215854,
+          299768
+        ]
+      },
+      {
+        "qualifiers": "mdpi",
+        "extension": "webp",
+        "quantity": 4,
+        "fileData": [
+          17370,
+          41918,
+          43454,
+          50324
+        ]
+      },
+      {
+        "qualifiers": "sw600dp-hdpi",
+        "extension": "webp",
+        "quantity": 4,
+        "fileData": [
+          148266,
+          246054,
+          164588,
+          222182
+        ]
+      },
+      {
+        "qualifiers": "sw600dp-land-hdpi",
+        "extension": "webp",
+        "quantity": 4,
+        "fileData": [
+          127322,
+          125244,
+          133894,
+          139268
+        ]
+      },
+      {
+        "qualifiers": "sw600dp-land-mdpi",
+        "extension": "webp",
+        "quantity": 4,
+        "fileData": [
+          66428,
+          67086,
+          69288,
+          80238
+        ]
+      },
+      {
+        "qualifiers": "sw600dp-land-xhdpi",
+        "extension": "webp",
+        "quantity": 4,
+        "fileData": [
+          196498,
+          190156,
+          207936,
+          207318
+        ]
+      },
+      {
+        "qualifiers": "sw600dp-land-xxxhdpi",
+        "extension": "webp",
+        "quantity": 4,
+        "fileData": [
+          623154,
+          621636,
+          648244,
+          604994
+        ]
+      },
+      {
+        "qualifiers": "sw600dp-mdpi",
+        "extension": "webp",
+        "quantity": 4,
+        "fileData": [
+          78942,
+          125044,
+          86768,
+          119202
+        ]
+      },
+      {
+        "qualifiers": "sw600dp-xhdpi",
+        "extension": "webp",
+        "quantity": 4,
+        "fileData": [
+          228956,
+          390466,
+          253188,
+          333828
+        ]
+      },
+      {
+        "qualifiers": "sw600dp-xxxhdpi",
+        "extension": "webp",
+        "quantity": 4,
+        "fileData": [
+          715748,
+          1343978,
+          825558,
+          1048472
+        ]
+      },
+      {
+        "qualifiers": "xhdpi",
+        "extension": "webp",
+        "quantity": 4,
+        "fileData": [
+          51458,
+          121850,
+          136032,
+          150766
+        ]
+      },
+      {
+        "qualifiers": "xxxhdpi",
+        "extension": "webp",
+        "quantity": 4,
+        "fileData": [
+          171004,
+          395748,
+          459500,
+          496012
+        ]
+      }
+    ],
+    "font": [],
+    "layout": [],
+    "menu": [],
+    "mipmap": [],
+    "navigation": [],
+    "raw": [],
+    "transition": [],
+    "values": [
+      {
+        "qualifiers": "",
+        "extension": "xml",
+        "quantity": 3,
+        "valuesFileList": [
+          {
+            "stringCount": 0,
+            "intCount": 0,
+            "boolCount": 0,
+            "colorCount": 6,
+            "dimenCount": 0,
+            "idCount": 0,
+            "integerArrayCount": [],
+            "arrayCount": [],
+            "styleCount": []
+          },
+          {
+            "stringCount": 0,
+            "intCount": 0,
+            "boolCount": 0,
+            "colorCount": 0,
+            "dimenCount": 1,
+            "idCount": 0,
+            "integerArrayCount": [],
+            "arrayCount": [],
+            "styleCount": []
+          },
+          {
+            "stringCount": 6,
+            "intCount": 0,
+            "boolCount": 0,
+            "colorCount": 0,
+            "dimenCount": 0,
+            "idCount": 0,
+            "integerArrayCount": [],
+            "arrayCount": [],
+            "styleCount": []
+          }
+        ]
+      },
+      {
+        "qualifiers": "ca-rES",
+        "extension": "xml",
+        "quantity": 1,
+        "valuesFileList": [
+          {
+            "stringCount": 6,
+            "intCount": 0,
+            "boolCount": 0,
+            "colorCount": 0,
+            "dimenCount": 0,
+            "idCount": 0,
+            "integerArrayCount": [],
+            "arrayCount": [],
+            "styleCount": []
+          }
+        ]
+      },
+      {
+        "qualifiers": "en-rAU",
+        "extension": "xml",
+        "quantity": 1,
+        "valuesFileList": [
+          {
+            "stringCount": 6,
+            "intCount": 0,
+            "boolCount": 0,
+            "colorCount": 0,
+            "dimenCount": 0,
+            "idCount": 0,
+            "integerArrayCount": [],
+            "arrayCount": [],
+            "styleCount": []
+          }
+        ]
+      },
+      {
+        "qualifiers": "en-rCA",
+        "extension": "xml",
+        "quantity": 1,
+        "valuesFileList": [
+          {
+            "stringCount": 6,
+            "intCount": 0,
+            "boolCount": 0,
+            "colorCount": 0,
+            "dimenCount": 0,
+            "idCount": 0,
+            "integerArrayCount": [],
+            "arrayCount": [],
+            "styleCount": []
+          }
+        ]
+      },
+      {
+        "qualifiers": "en-rGB",
+        "extension": "xml",
+        "quantity": 1,
+        "valuesFileList": [
+          {
+            "stringCount": 6,
+            "intCount": 0,
+            "boolCount": 0,
+            "colorCount": 0,
+            "dimenCount": 0,
+            "idCount": 0,
+            "integerArrayCount": [],
+            "arrayCount": [],
+            "styleCount": []
+          }
+        ]
+      },
+      {
+        "qualifiers": "en-rIE",
+        "extension": "xml",
+        "quantity": 1,
+        "valuesFileList": [
+          {
+            "stringCount": 6,
+            "intCount": 0,
+            "boolCount": 0,
+            "colorCount": 0,
+            "dimenCount": 0,
+            "idCount": 0,
+            "integerArrayCount": [],
+            "arrayCount": [],
+            "styleCount": []
+          }
+        ]
+      },
+      {
+        "qualifiers": "es-rES",
+        "extension": "xml",
+        "quantity": 1,
+        "valuesFileList": [
+          {
+            "stringCount": 6,
+            "intCount": 0,
+            "boolCount": 0,
+            "colorCount": 0,
+            "dimenCount": 0,
+            "idCount": 0,
+            "integerArrayCount": [],
+            "arrayCount": [],
+            "styleCount": []
+          }
+        ]
+      },
+      {
+        "qualifiers": "es-rUS",
+        "extension": "xml",
+        "quantity": 1,
+        "valuesFileList": [
+          {
+            "stringCount": 6,
+            "intCount": 0,
+            "boolCount": 0,
+            "colorCount": 0,
+            "dimenCount": 0,
+            "idCount": 0,
+            "integerArrayCount": [],
+            "arrayCount": [],
+            "styleCount": []
+          }
+        ]
+      },
+      {
+        "qualifiers": "fr-rCA",
+        "extension": "xml",
+        "quantity": 1,
+        "valuesFileList": [
+          {
+            "stringCount": 6,
+            "intCount": 0,
+            "boolCount": 0,
+            "colorCount": 0,
+            "dimenCount": 0,
+            "idCount": 0,
+            "integerArrayCount": [],
+            "arrayCount": [],
+            "styleCount": []
+          }
+        ]
+      },
+      {
+        "qualifiers": "fr-rFR",
+        "extension": "xml",
+        "quantity": 1,
+        "valuesFileList": [
+          {
+            "stringCount": 6,
+            "intCount": 0,
+            "boolCount": 0,
+            "colorCount": 0,
+            "dimenCount": 0,
+            "idCount": 0,
+            "integerArrayCount": [],
+            "arrayCount": [],
+            "styleCount": []
+          }
+        ]
+      },
+      {
+        "qualifiers": "ja",
+        "extension": "xml",
+        "quantity": 1,
+        "valuesFileList": [
+          {
+            "stringCount": 6,
+            "intCount": 0,
+            "boolCount": 0,
+            "colorCount": 0,
+            "dimenCount": 0,
+            "idCount": 0,
+            "integerArrayCount": [],
+            "arrayCount": [],
+            "styleCount": []
+          }
+        ]
+      }
+    ],
+    "xml": []
+  },
+  "javaResources": {},
+  "assets": {}
+}

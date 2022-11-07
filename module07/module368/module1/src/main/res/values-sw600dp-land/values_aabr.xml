@@ -1,0 +1,4 @@
+<resources>
+    <dimen name="android_aaap">105dp</dimen>
+    <dimen name="android_aacs">645sp</dimen>
+</resources>

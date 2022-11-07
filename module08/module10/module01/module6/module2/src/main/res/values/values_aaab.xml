@@ -1,0 +1,17 @@
+<resources>
+    <dimen name="the_aaaa">8dp</dimen>
+    <dimen name="the_aaab">138px</dimen>
+    <dimen name="name_aaac">547px</dimen>
+    <dimen name="delivery_aaad">825dp</dimen>
+    <dimen name="delivery_etc._constable_aaae">1141sp</dimen>
+    <dimen name="pizza_delivery_aaaf">544pt</dimen>
+    <dimen name="pizza_constable_min_aaag">526dp</dimen>
+    <dimen name="cool_aaah">687in</dimen>
+    <dimen name="etc._min_android_aaai">579sp</dimen>
+    <dimen name="constable_aaaj">343mm</dimen>
+    <dimen name="android_awesome_writer_aaak">783mm</dimen>
+    <dimen name="delivery_face_aaal">1377in</dimen>
+    <dimen name="cool_max_chocolate_aaam">1971pt</dimen>
+    <dimen name="min_etc._aaan">1420px</dimen>
+    <dimen name="cool_min_aaao">348mm</dimen>
+</resources>

@@ -1,0 +1,61 @@
+plugins {
+  id 'com.android.library'
+}
+android {
+  compileSdkVersion = 'android-32'
+  defaultConfig {
+    minSdkVersion 24
+    targetSdkVersion 31
+  }
+  compileOptions {
+    sourceCompatibility = JavaVersion.VERSION_1_8
+    targetCompatibility = JavaVersion.VERSION_1_8
+  }
+  buildFeatures {
+    buildConfig = false
+  }
+}
+dependencies {
+  androidTestImplementation 'androidx.annotation:annotation:1.0.0'
+  annotationProcessor 'com.google.dagger:dagger-compiler:2.43.1'
+  api project(':module05:module36:module6')
+  api project(':module06:module02:module3')
+  api project(':module06:module08:module3')
+  api project(':module07:module031:module5')
+  api project(':module07:module083:module1')
+  api project(':module07:module087:module2')
+  api project(':module07:module088:module1')
+  api project(':module07:module093:module1')
+  api project(':module07:module099:module1')
+  api project(':module07:module112')
+  api project(':module07:module129:module2')
+  api project(':module07:module136:module4')
+  api project(':module07:module143')
+  api project(':module07:module188')
+  api project(':module07:module194:module1')
+  api project(':module07:module229')
+  api project(':module07:module239')
+  api project(':module07:module237:module5')
+  api project(':module07:module276')
+  api project(':module07:module285:module2')
+  api project(':module07:module312:module4')
+  api project(':module07:module317')
+  api project(':module07:module329:module3')
+  api project(':module07:module379:module3')
+  api project(':module07:module376:module1')
+  api project(':module07:module404:module3')
+  api project(':module07:module417:module2')
+  api project(':module07:module439:module3')
+  api project(':module07:module441:module2')
+  api project(':module07:module572')
+  api project(':module07:module581:module5')
+  api project(':module07:module590:module2')
+  api project(':module07:module593:module1')
+  api project(':module08:module51:module1')
+  api project(':module08:module52:module2')
+  api project(':module08:module57')
+  api project(':module10:module1')
+  api project(':module15:module1:module3')
+  api 'com.google.dagger:dagger:2.43.1'
+  compileOnly 'androidx.annotation:annotation:1.0.0'
+}

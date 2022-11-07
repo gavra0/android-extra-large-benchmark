@@ -1,0 +1,6 @@
+<resources>
+    <dimen name="vanilla_aaaa">112dp</dimen>
+    <dimen name="pie_android_aaab">617pt</dimen>
+    <dimen name="android_strawberry_aaac">1860pt</dimen>
+    <dimen name="strawberry_aaad">1916px</dimen>
+</resources>

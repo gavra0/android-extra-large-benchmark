@@ -1,0 +1,5 @@
+<resources>
+    <dimen name="writer_aaaa">2001mm</dimen>
+    <dimen name="max_delivery_aaab">1713dp</dimen>
+    <dimen name="writer_aaac">892sp</dimen>
+</resources>

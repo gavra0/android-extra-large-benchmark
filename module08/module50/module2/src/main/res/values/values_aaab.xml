@@ -1,0 +1,10 @@
+<resources>
+    <dimen name="writer_aaaa">76in</dimen>
+    <dimen name="writer_min_aaab">361mm</dimen>
+    <dimen name="android_aaac">337dp</dimen>
+    <dimen name="strawberry_awesome_min_aaad">1851sp</dimen>
+    <dimen name="delivery_min_vanilla_aaae">1946sp</dimen>
+    <dimen name="strawberry_aaaf">1863pt</dimen>
+    <dimen name="min_the_min_aaag">524dp</dimen>
+    <dimen name="min_chocolate_pizza_aaah">564sp</dimen>
+</resources>

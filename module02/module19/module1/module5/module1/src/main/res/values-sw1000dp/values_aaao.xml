@@ -1,0 +1,16 @@
+<resources>
+    <dimen name="constable_nice_aaac">1857in</dimen>
+    <dimen name="constable_party_vanilla_aaae">1864px</dimen>
+    <dimen name="cookie_aaam">1083mm</dimen>
+    <dimen name="cool_aaaf">1086px</dimen>
+    <dimen name="cool_writer_cool_aaah">1790sp</dimen>
+    <dimen name="delivery_aaaj">1690px</dimen>
+    <dimen name="delivery_face_aaag">584px</dimen>
+    <dimen name="name_pie_aaaa">842mm</dimen>
+    <dimen name="nice_name_aaan">1110dp</dimen>
+    <dimen name="party_pizza_aaai">800sp</dimen>
+    <dimen name="pizza_etc._aaab">1683px</dimen>
+    <dimen name="the_pie_the_aaad">710in</dimen>
+    <dimen name="wire_aaal">1820mm</dimen>
+    <dimen name="writer_party_cookie_aaak">1304pt</dimen>
+</resources>

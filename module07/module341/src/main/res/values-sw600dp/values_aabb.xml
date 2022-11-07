@@ -1,0 +1,16 @@
+<resources>
+    <dimen name="android_aadp">916sp</dimen>
+    <dimen name="android_aaed">830mm</dimen>
+    <dimen name="android_aaeq">1127dp</dimen>
+    <dimen name="android_constable_party_aaff">1373in</dimen>
+    <dimen name="android_name_aadi">36sp</dimen>
+    <dimen name="android_party_aabf">1873dp</dimen>
+    <dimen name="android_pie_aabj">21mm</dimen>
+    <dimen name="android_the_face_aadw">826in</dimen>
+    <dimen name="awesome_aacf">342dp</dimen>
+    <dimen name="awesome_aacj">738dp</dimen>
+    <dimen name="awesome_aadb">997px</dimen>
+    <dimen name="awesome_aaee">65px</dimen>
+    <dimen name="awesome_cookie_etc._aaad">1517mm</dimen>
+    <dimen name="awesome_strawberry_aaas">415pt</dimen>
+</resources>

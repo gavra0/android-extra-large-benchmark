@@ -1,0 +1,10 @@
+plugins {
+  id 'java-library'
+  id 'java'
+}
+dependencies {
+  api 'com.google.dagger:dagger:2.43.1'
+  api 'io.reactivex.rxjava2:rxjava:2.2.21'
+  compileOnly 'androidx.annotation:annotation:1.0.0'
+  implementation project(':module07:module594:module3')
+}

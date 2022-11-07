@@ -1,0 +1,16 @@
+<resources>
+    <dimen name="chocolate_aaan">141dp</dimen>
+    <dimen name="chocolate_aaaz">999px</dimen>
+    <dimen name="chocolate_cookie_aaao">110px</dimen>
+    <dimen name="constable_aaab">602pt</dimen>
+    <dimen name="cookie_aaah">1340dp</dimen>
+    <dimen name="cookie_face_cookie_aaau">920pt</dimen>
+    <dimen name="cookie_party_aaay">425px</dimen>
+    <dimen name="cookie_pizza_nice_aaae">679mm</dimen>
+    <dimen name="cool_aaal">1413in</dimen>
+    <dimen name="etc._etc._aaaw">1989mm</dimen>
+    <dimen name="etc._pizza_aaat">1356mm</dimen>
+    <dimen name="etc._vanilla_aaaa">844dp</dimen>
+    <dimen name="face_aaap">1179pt</dimen>
+    <dimen name="max_aaag">1456px</dimen>
+</resources>

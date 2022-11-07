@@ -1,0 +1,5 @@
+<resources>
+    <dimen name="min_party_aaaa">1084px</dimen>
+    <dimen name="cool_aaab">1456px</dimen>
+    <dimen name="min_aaac">1599in</dimen>
+</resources>

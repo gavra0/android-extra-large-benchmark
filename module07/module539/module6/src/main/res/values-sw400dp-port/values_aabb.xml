@@ -1,0 +1,17 @@
+<resources>
+    <dimen name="awesome_party_aaaj">622pt</dimen>
+    <dimen name="constable_aaam">866px</dimen>
+    <dimen name="constable_etc._aaap">866dp</dimen>
+    <dimen name="cool_aaaq">1335mm</dimen>
+    <dimen name="delivery_android_the_aaao">1734px</dimen>
+    <dimen name="delivery_pie_aaai">1514sp</dimen>
+    <dimen name="delivery_strawberry_max_aaah">228mm</dimen>
+    <dimen name="etc._party_awesome_aaaa">1359px</dimen>
+    <dimen name="etc._pizza_cookie_aaat">64pt</dimen>
+    <dimen name="face_aaag">875in</dimen>
+    <dimen name="face_constable_aaac">168dp</dimen>
+    <dimen name="face_party_aaas">1557dp</dimen>
+    <dimen name="max_aaab">1795px</dimen>
+    <dimen name="max_aaad">1163dp</dimen>
+    <dimen name="max_aaal">583mm</dimen>
+</resources>

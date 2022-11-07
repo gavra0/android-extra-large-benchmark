@@ -1,0 +1,440 @@
+{
+  "androidResources": {
+    "animator": [],
+    "anim": [],
+    "color": [],
+    "drawable": [
+      {
+        "qualifiers": "en-rAU-hdpi",
+        "extension": "webp",
+        "quantity": 1,
+        "fileData": [
+          66370
+        ]
+      },
+      {
+        "qualifiers": "en-rAU-mdpi",
+        "extension": "webp",
+        "quantity": 1,
+        "fileData": [
+          39754
+        ]
+      },
+      {
+        "qualifiers": "en-rAU-xhdpi",
+        "extension": "webp",
+        "quantity": 1,
+        "fileData": [
+          105510
+        ]
+      },
+      {
+        "qualifiers": "en-rAU-xxxhdpi",
+        "extension": "webp",
+        "quantity": 1,
+        "fileData": [
+          279138
+        ]
+      },
+      {
+        "qualifiers": "en-rGB-hdpi",
+        "extension": "webp",
+        "quantity": 1,
+        "fileData": [
+          65716
+        ]
+      },
+      {
+        "qualifiers": "en-rGB-mdpi",
+        "extension": "webp",
+        "quantity": 1,
+        "fileData": [
+          39712
+        ]
+      },
+      {
+        "qualifiers": "en-rGB-xhdpi",
+        "extension": "webp",
+        "quantity": 1,
+        "fileData": [
+          105578
+        ]
+      },
+      {
+        "qualifiers": "en-rGB-xxxhdpi",
+        "extension": "webp",
+        "quantity": 1,
+        "fileData": [
+          277928
+        ]
+      },
+      {
+        "qualifiers": "es-rUS-hdpi",
+        "extension": "webp",
+        "quantity": 1,
+        "fileData": [
+          71258
+        ]
+      },
+      {
+        "qualifiers": "es-rUS-mdpi",
+        "extension": "webp",
+        "quantity": 1,
+        "fileData": [
+          42290
+        ]
+      },
+      {
+        "qualifiers": "es-rUS-xhdpi",
+        "extension": "webp",
+        "quantity": 1,
+        "fileData": [
+          112196
+        ]
+      },
+      {
+        "qualifiers": "es-rUS-xxxhdpi",
+        "extension": "webp",
+        "quantity": 1,
+        "fileData": [
+          289524
+        ]
+      },
+      {
+        "qualifiers": "fr-rCA-hdpi",
+        "extension": "webp",
+        "quantity": 1,
+        "fileData": [
+          70918
+        ]
+      },
+      {
+        "qualifiers": "fr-rCA-mdpi",
+        "extension": "webp",
+        "quantity": 1,
+        "fileData": [
+          42086
+        ]
+      },
+      {
+        "qualifiers": "fr-rCA-xhdpi",
+        "extension": "webp",
+        "quantity": 1,
+        "fileData": [
+          111342
+        ]
+      },
+      {
+        "qualifiers": "fr-rCA-xxxhdpi",
+        "extension": "webp",
+        "quantity": 1,
+        "fileData": [
+          291266
+        ]
+      },
+      {
+        "qualifiers": "fr-rFR-hdpi",
+        "extension": "webp",
+        "quantity": 1,
+        "fileData": [
+          76850
+        ]
+      },
+      {
+        "qualifiers": "fr-rFR-mdpi",
+        "extension": "webp",
+        "quantity": 1,
+        "fileData": [
+          45568
+        ]
+      },
+      {
+        "qualifiers": "fr-rFR-xhdpi",
+        "extension": "webp",
+        "quantity": 1,
+        "fileData": [
+          123530
+        ]
+      },
+      {
+        "qualifiers": "fr-rFR-xxxhdpi",
+        "extension": "webp",
+        "quantity": 1,
+        "fileData": [
+          322362
+        ]
+      },
+      {
+        "qualifiers": "hdpi",
+        "extension": "webp",
+        "quantity": 1,
+        "fileData": [
+          66252
+        ]
+      },
+      {
+        "qualifiers": "mdpi",
+        "extension": "webp",
+        "quantity": 1,
+        "fileData": [
+          39652
+        ]
+      },
+      {
+        "qualifiers": "xhdpi",
+        "extension": "webp",
+        "quantity": 1,
+        "fileData": [
+          105504
+        ]
+      },
+      {
+        "qualifiers": "xxxhdpi",
+        "extension": "webp",
+        "quantity": 1,
+        "fileData": [
+          278642
+        ]
+      }
+    ],
+    "font": [],
+    "layout": [
+      {
+        "qualifiers": "",
+        "extension": "xml",
+        "quantity": 2,
+        "fileData": [
+          55,
+          23
+        ]
+      },
+      {
+        "qualifiers": "sw600dp",
+        "extension": "xml",
+        "quantity": 1,
+        "fileData": [
+          54
+        ]
+      }
+    ],
+    "menu": [],
+    "mipmap": [],
+    "navigation": [],
+    "raw": [],
+    "transition": [],
+    "values": [
+      {
+        "qualifiers": "",
+        "extension": "xml",
+        "quantity": 2,
+        "valuesFileList": [
+          {
+            "stringCount": 0,
+            "intCount": 0,
+            "boolCount": 0,
+            "colorCount": 0,
+            "dimenCount": 1,
+            "idCount": 0,
+            "integerArrayCount": [],
+            "arrayCount": [],
+            "styleCount": []
+          },
+          {
+            "stringCount": 3,
+            "intCount": 0,
+            "boolCount": 0,
+            "colorCount": 0,
+            "dimenCount": 0,
+            "idCount": 0,
+            "integerArrayCount": [],
+            "arrayCount": [],
+            "styleCount": []
+          }
+        ]
+      },
+      {
+        "qualifiers": "ca-rES",
+        "extension": "xml",
+        "quantity": 1,
+        "valuesFileList": [
+          {
+            "stringCount": 3,
+            "intCount": 0,
+            "boolCount": 0,
+            "colorCount": 0,
+            "dimenCount": 0,
+            "idCount": 0,
+            "integerArrayCount": [],
+            "arrayCount": [],
+            "styleCount": []
+          }
+        ]
+      },
+      {
+        "qualifiers": "en-rAU",
+        "extension": "xml",
+        "quantity": 1,
+        "valuesFileList": [
+          {
+            "stringCount": 3,
+            "intCount": 0,
+            "boolCount": 0,
+            "colorCount": 0,
+            "dimenCount": 0,
+            "idCount": 0,
+            "integerArrayCount": [],
+            "arrayCount": [],
+            "styleCount": []
+          }
+        ]
+      },
+      {
+        "qualifiers": "en-rCA",
+        "extension": "xml",
+        "quantity": 1,
+        "valuesFileList": [
+          {
+            "stringCount": 3,
+            "intCount": 0,
+            "boolCount": 0,
+            "colorCount": 0,
+            "dimenCount": 0,
+            "idCount": 0,
+            "integerArrayCount": [],
+            "arrayCount": [],
+            "styleCount": []
+          }
+        ]
+      },
+      {
+        "qualifiers": "en-rGB",
+        "extension": "xml",
+        "quantity": 1,
+        "valuesFileList": [
+          {
+            "stringCount": 3,
+            "intCount": 0,
+            "boolCount": 0,
+            "colorCount": 0,
+            "dimenCount": 0,
+            "idCount": 0,
+            "integerArrayCount": [],
+            "arrayCount": [],
+            "styleCount": []
+          }
+        ]
+      },
+      {
+        "qualifiers": "en-rIE",
+        "extension": "xml",
+        "quantity": 1,
+        "valuesFileList": [
+          {
+            "stringCount": 3,
+            "intCount": 0,
+            "boolCount": 0,
+            "colorCount": 0,
+            "dimenCount": 0,
+            "idCount": 0,
+            "integerArrayCount": [],
+            "arrayCount": [],
+            "styleCount": []
+          }
+        ]
+      },
+      {
+        "qualifiers": "es-rES",
+        "extension": "xml",
+        "quantity": 1,
+        "valuesFileList": [
+          {
+            "stringCount": 3,
+            "intCount": 0,
+            "boolCount": 0,
+            "colorCount": 0,
+            "dimenCount": 0,
+            "idCount": 0,
+            "integerArrayCount": [],
+            "arrayCount": [],
+            "styleCount": []
+          }
+        ]
+      },
+      {
+        "qualifiers": "es-rUS",
+        "extension": "xml",
+        "quantity": 1,
+        "valuesFileList": [
+          {
+            "stringCount": 3,
+            "intCount": 0,
+            "boolCount": 0,
+            "colorCount": 0,
+            "dimenCount": 0,
+            "idCount": 0,
+            "integerArrayCount": [],
+            "arrayCount": [],
+            "styleCount": []
+          }
+        ]
+      },
+      {
+        "qualifiers": "fr-rCA",
+        "extension": "xml",
+        "quantity": 1,
+        "valuesFileList": [
+          {
+            "stringCount": 3,
+            "intCount": 0,
+            "boolCount": 0,
+            "colorCount": 0,
+            "dimenCount": 0,
+            "idCount": 0,
+            "integerArrayCount": [],
+            "arrayCount": [],
+            "styleCount": []
+          }
+        ]
+      },
+      {
+        "qualifiers": "fr-rFR",
+        "extension": "xml",
+        "quantity": 1,
+        "valuesFileList": [
+          {
+            "stringCount": 3,
+            "intCount": 0,
+            "boolCount": 0,
+            "colorCount": 0,
+            "dimenCount": 0,
+            "idCount": 0,
+            "integerArrayCount": [],
+            "arrayCount": [],
+            "styleCount": []
+          }
+        ]
+      },
+      {
+        "qualifiers": "ja",
+        "extension": "xml",
+        "quantity": 1,
+        "valuesFileList": [
+          {
+            "stringCount": 3,
+            "intCount": 0,
+            "boolCount": 0,
+            "colorCount": 0,
+            "dimenCount": 0,
+            "idCount": 0,
+            "integerArrayCount": [],
+            "arrayCount": [],
+            "styleCount": []
+          }
+        ]
+      }
+    ],
+    "xml": []
+  },
+  "javaResources": {},
+  "assets": {}
+}

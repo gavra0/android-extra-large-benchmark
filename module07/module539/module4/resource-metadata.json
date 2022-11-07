@@ -1,0 +1,850 @@
+{
+  "androidResources": {
+    "animator": [],
+    "anim": [],
+    "color": [],
+    "drawable": [
+      {
+        "qualifiers": "ca-rES-land-nodpi",
+        "extension": "webp",
+        "quantity": 2,
+        "fileData": [
+          43248,
+          61986
+        ]
+      },
+      {
+        "qualifiers": "ca-rES-land-nodpi",
+        "extension": "xml",
+        "quantity": 4,
+        "fileData": [
+          242,
+          412,
+          531,
+          267
+        ]
+      },
+      {
+        "qualifiers": "ca-rES-nodpi",
+        "extension": "webp",
+        "quantity": 1,
+        "fileData": [
+          40936
+        ]
+      },
+      {
+        "qualifiers": "ca-rES-nodpi",
+        "extension": "xml",
+        "quantity": 4,
+        "fileData": [
+          225,
+          256,
+          514,
+          151
+        ]
+      },
+      {
+        "qualifiers": "ca-rES-sw600dp-port-nodpi",
+        "extension": "webp",
+        "quantity": 2,
+        "fileData": [
+          45478,
+          88142
+        ]
+      },
+      {
+        "qualifiers": "ca-rES-sw600dp-port-nodpi",
+        "extension": "xml",
+        "quantity": 4,
+        "fileData": [
+          404,
+          416,
+          454,
+          259
+        ]
+      },
+      {
+        "qualifiers": "en-rAU-land-nodpi",
+        "extension": "webp",
+        "quantity": 1,
+        "fileData": [
+          84914
+        ]
+      },
+      {
+        "qualifiers": "en-rAU-land-nodpi",
+        "extension": "xml",
+        "quantity": 4,
+        "fileData": [
+          57,
+          219,
+          141,
+          32
+        ]
+      },
+      {
+        "qualifiers": "en-rAU-nodpi",
+        "extension": "webp",
+        "quantity": 1,
+        "fileData": [
+          21700
+        ]
+      },
+      {
+        "qualifiers": "en-rAU-nodpi",
+        "extension": "xml",
+        "quantity": 4,
+        "fileData": [
+          50,
+          63,
+          102,
+          47
+        ]
+      },
+      {
+        "qualifiers": "en-rAU-sw600dp-port-nodpi",
+        "extension": "webp",
+        "quantity": 1,
+        "fileData": [
+          77050
+        ]
+      },
+      {
+        "qualifiers": "en-rAU-sw600dp-port-nodpi",
+        "extension": "xml",
+        "quantity": 4,
+        "fileData": [
+          91,
+          216,
+          145,
+          30
+        ]
+      },
+      {
+        "qualifiers": "en-rCA-land-nodpi",
+        "extension": "webp",
+        "quantity": 1,
+        "fileData": [
+          84914
+        ]
+      },
+      {
+        "qualifiers": "en-rCA-land-nodpi",
+        "extension": "xml",
+        "quantity": 4,
+        "fileData": [
+          57,
+          232,
+          142,
+          32
+        ]
+      },
+      {
+        "qualifiers": "en-rCA-nodpi",
+        "extension": "webp",
+        "quantity": 1,
+        "fileData": [
+          21700
+        ]
+      },
+      {
+        "qualifiers": "en-rCA-nodpi",
+        "extension": "xml",
+        "quantity": 4,
+        "fileData": [
+          50,
+          63,
+          102,
+          48
+        ]
+      },
+      {
+        "qualifiers": "en-rCA-sw600dp-port-nodpi",
+        "extension": "webp",
+        "quantity": 1,
+        "fileData": [
+          77050
+        ]
+      },
+      {
+        "qualifiers": "en-rCA-sw600dp-port-nodpi",
+        "extension": "xml",
+        "quantity": 4,
+        "fileData": [
+          91,
+          229,
+          145,
+          30
+        ]
+      },
+      {
+        "qualifiers": "en-rGB-land-nodpi",
+        "extension": "webp",
+        "quantity": 1,
+        "fileData": [
+          84914
+        ]
+      },
+      {
+        "qualifiers": "en-rGB-land-nodpi",
+        "extension": "xml",
+        "quantity": 4,
+        "fileData": [
+          57,
+          219,
+          141,
+          32
+        ]
+      },
+      {
+        "qualifiers": "en-rGB-nodpi",
+        "extension": "webp",
+        "quantity": 1,
+        "fileData": [
+          21700
+        ]
+      },
+      {
+        "qualifiers": "en-rGB-nodpi",
+        "extension": "xml",
+        "quantity": 4,
+        "fileData": [
+          50,
+          63,
+          102,
+          47
+        ]
+      },
+      {
+        "qualifiers": "en-rGB-sw600dp-port-nodpi",
+        "extension": "webp",
+        "quantity": 1,
+        "fileData": [
+          77050
+        ]
+      },
+      {
+        "qualifiers": "en-rGB-sw600dp-port-nodpi",
+        "extension": "xml",
+        "quantity": 4,
+        "fileData": [
+          91,
+          216,
+          145,
+          30
+        ]
+      },
+      {
+        "qualifiers": "en-rIE-land-nodpi",
+        "extension": "webp",
+        "quantity": 1,
+        "fileData": [
+          84914
+        ]
+      },
+      {
+        "qualifiers": "en-rIE-land-nodpi",
+        "extension": "xml",
+        "quantity": 4,
+        "fileData": [
+          242,
+          583,
+          488,
+          261
+        ]
+      },
+      {
+        "qualifiers": "en-rIE-nodpi",
+        "extension": "webp",
+        "quantity": 1,
+        "fileData": [
+          21700
+        ]
+      },
+      {
+        "qualifiers": "en-rIE-nodpi",
+        "extension": "xml",
+        "quantity": 4,
+        "fileData": [
+          225,
+          256,
+          338,
+          151
+        ]
+      },
+      {
+        "qualifiers": "en-rIE-sw600dp-port-nodpi",
+        "extension": "webp",
+        "quantity": 1,
+        "fileData": [
+          77050
+        ]
+      },
+      {
+        "qualifiers": "en-rIE-sw600dp-port-nodpi",
+        "extension": "xml",
+        "quantity": 4,
+        "fileData": [
+          404,
+          562,
+          502,
+          256
+        ]
+      },
+      {
+        "qualifiers": "es-rES-land-nodpi",
+        "extension": "webp",
+        "quantity": 2,
+        "fileData": [
+          43248,
+          61986
+        ]
+      },
+      {
+        "qualifiers": "es-rES-land-nodpi",
+        "extension": "xml",
+        "quantity": 4,
+        "fileData": [
+          147,
+          420,
+          431,
+          267
+        ]
+      },
+      {
+        "qualifiers": "es-rES-nodpi",
+        "extension": "webp",
+        "quantity": 1,
+        "fileData": [
+          40936
+        ]
+      },
+      {
+        "qualifiers": "es-rES-nodpi",
+        "extension": "xml",
+        "quantity": 4,
+        "fileData": [
+          225,
+          256,
+          519,
+          151
+        ]
+      },
+      {
+        "qualifiers": "es-rES-sw600dp-port-nodpi",
+        "extension": "webp",
+        "quantity": 2,
+        "fileData": [
+          45478,
+          88142
+        ]
+      },
+      {
+        "qualifiers": "es-rES-sw600dp-port-nodpi",
+        "extension": "xml",
+        "quantity": 4,
+        "fileData": [
+          408,
+          416,
+          460,
+          259
+        ]
+      },
+      {
+        "qualifiers": "es-rUS-land-nodpi",
+        "extension": "webp",
+        "quantity": 2,
+        "fileData": [
+          84914,
+          74334
+        ]
+      },
+      {
+        "qualifiers": "es-rUS-land-nodpi",
+        "extension": "xml",
+        "quantity": 4,
+        "fileData": [
+          57,
+          231,
+          142,
+          32
+        ]
+      },
+      {
+        "qualifiers": "es-rUS-nodpi",
+        "extension": "webp",
+        "quantity": 1,
+        "fileData": [
+          21916
+        ]
+      },
+      {
+        "qualifiers": "es-rUS-nodpi",
+        "extension": "xml",
+        "quantity": 4,
+        "fileData": [
+          66,
+          46,
+          129,
+          60
+        ]
+      },
+      {
+        "qualifiers": "es-rUS-sw600dp-port-nodpi",
+        "extension": "webp",
+        "quantity": 1,
+        "fileData": [
+          77050
+        ]
+      },
+      {
+        "qualifiers": "es-rUS-sw600dp-port-nodpi",
+        "extension": "xml",
+        "quantity": 4,
+        "fileData": [
+          94,
+          228,
+          145,
+          30
+        ]
+      },
+      {
+        "qualifiers": "fr-rCA-land-nodpi",
+        "extension": "webp",
+        "quantity": 1,
+        "fileData": [
+          84914
+        ]
+      },
+      {
+        "qualifiers": "fr-rCA-land-nodpi",
+        "extension": "xml",
+        "quantity": 4,
+        "fileData": [
+          57,
+          232,
+          142,
+          32
+        ]
+      },
+      {
+        "qualifiers": "fr-rCA-nodpi",
+        "extension": "webp",
+        "quantity": 1,
+        "fileData": [
+          21700
+        ]
+      },
+      {
+        "qualifiers": "fr-rCA-nodpi",
+        "extension": "xml",
+        "quantity": 4,
+        "fileData": [
+          50,
+          63,
+          102,
+          48
+        ]
+      },
+      {
+        "qualifiers": "fr-rCA-sw600dp-port-nodpi",
+        "extension": "webp",
+        "quantity": 1,
+        "fileData": [
+          77050
+        ]
+      },
+      {
+        "qualifiers": "fr-rCA-sw600dp-port-nodpi",
+        "extension": "xml",
+        "quantity": 4,
+        "fileData": [
+          91,
+          229,
+          144,
+          30
+        ]
+      },
+      {
+        "qualifiers": "ja-land-nodpi",
+        "extension": "webp",
+        "quantity": 1,
+        "fileData": [
+          84914
+        ]
+      },
+      {
+        "qualifiers": "ja-land-nodpi",
+        "extension": "xml",
+        "quantity": 4,
+        "fileData": [
+          58,
+          219,
+          142,
+          32
+        ]
+      },
+      {
+        "qualifiers": "ja-nodpi",
+        "extension": "webp",
+        "quantity": 1,
+        "fileData": [
+          21700
+        ]
+      },
+      {
+        "qualifiers": "ja-nodpi",
+        "extension": "xml",
+        "quantity": 4,
+        "fileData": [
+          51,
+          63,
+          102,
+          48
+        ]
+      },
+      {
+        "qualifiers": "ja-sw600dp-port-nodpi",
+        "extension": "webp",
+        "quantity": 1,
+        "fileData": [
+          77050
+        ]
+      },
+      {
+        "qualifiers": "ja-sw600dp-port-nodpi",
+        "extension": "xml",
+        "quantity": 4,
+        "fileData": [
+          92,
+          216,
+          145,
+          30
+        ]
+      },
+      {
+        "qualifiers": "land-nodpi",
+        "extension": "webp",
+        "quantity": 2,
+        "fileData": [
+          84914,
+          74334
+        ]
+      },
+      {
+        "qualifiers": "land-nodpi",
+        "extension": "xml",
+        "quantity": 4,
+        "fileData": [
+          57,
+          240,
+          125,
+          54
+        ]
+      },
+      {
+        "qualifiers": "nodpi",
+        "extension": "webp",
+        "quantity": 1,
+        "fileData": [
+          21916
+        ]
+      },
+      {
+        "qualifiers": "nodpi",
+        "extension": "xml",
+        "quantity": 4,
+        "fileData": [
+          69,
+          46,
+          129,
+          60
+        ]
+      },
+      {
+        "qualifiers": "sw600dp-port-nodpi",
+        "extension": "webp",
+        "quantity": 2,
+        "fileData": [
+          77050,
+          88142
+        ]
+      },
+      {
+        "qualifiers": "sw600dp-port-nodpi",
+        "extension": "xml",
+        "quantity": 4,
+        "fileData": [
+          102,
+          240,
+          128,
+          74
+        ]
+      }
+    ],
+    "font": [],
+    "layout": [
+      {
+        "qualifiers": "",
+        "extension": "xml",
+        "quantity": 6,
+        "fileData": [
+          24,
+          24,
+          42,
+          25,
+          41,
+          24
+        ]
+      },
+      {
+        "qualifiers": "land",
+        "extension": "xml",
+        "quantity": 1,
+        "fileData": [
+          32
+        ]
+      },
+      {
+        "qualifiers": "sw600dp-port-nodpi",
+        "extension": "xml",
+        "quantity": 1,
+        "fileData": [
+          32
+        ]
+      }
+    ],
+    "menu": [],
+    "mipmap": [],
+    "navigation": [],
+    "raw": [],
+    "transition": [],
+    "values": [
+      {
+        "qualifiers": "",
+        "extension": "xml",
+        "quantity": 3,
+        "valuesFileList": [
+          {
+            "stringCount": 0,
+            "intCount": 0,
+            "boolCount": 0,
+            "colorCount": 1,
+            "dimenCount": 0,
+            "idCount": 0,
+            "integerArrayCount": [],
+            "arrayCount": [],
+            "styleCount": []
+          },
+          {
+            "stringCount": 0,
+            "intCount": 0,
+            "boolCount": 0,
+            "colorCount": 0,
+            "dimenCount": 0,
+            "idCount": 0,
+            "integerArrayCount": [],
+            "arrayCount": [],
+            "styleCount": [
+              3
+            ]
+          },
+          {
+            "stringCount": 5,
+            "intCount": 0,
+            "boolCount": 0,
+            "colorCount": 0,
+            "dimenCount": 0,
+            "idCount": 0,
+            "integerArrayCount": [],
+            "arrayCount": [],
+            "styleCount": []
+          }
+        ]
+      },
+      {
+        "qualifiers": "ca-rES",
+        "extension": "xml",
+        "quantity": 1,
+        "valuesFileList": [
+          {
+            "stringCount": 5,
+            "intCount": 0,
+            "boolCount": 0,
+            "colorCount": 0,
+            "dimenCount": 0,
+            "idCount": 0,
+            "integerArrayCount": [],
+            "arrayCount": [],
+            "styleCount": []
+          }
+        ]
+      },
+      {
+        "qualifiers": "en-rAU",
+        "extension": "xml",
+        "quantity": 1,
+        "valuesFileList": [
+          {
+            "stringCount": 5,
+            "intCount": 0,
+            "boolCount": 0,
+            "colorCount": 0,
+            "dimenCount": 0,
+            "idCount": 0,
+            "integerArrayCount": [],
+            "arrayCount": [],
+            "styleCount": []
+          }
+        ]
+      },
+      {
+        "qualifiers": "en-rCA",
+        "extension": "xml",
+        "quantity": 1,
+        "valuesFileList": [
+          {
+            "stringCount": 5,
+            "intCount": 0,
+            "boolCount": 0,
+            "colorCount": 0,
+            "dimenCount": 0,
+            "idCount": 0,
+            "integerArrayCount": [],
+            "arrayCount": [],
+            "styleCount": []
+          }
+        ]
+      },
+      {
+        "qualifiers": "en-rGB",
+        "extension": "xml",
+        "quantity": 1,
+        "valuesFileList": [
+          {
+            "stringCount": 5,
+            "intCount": 0,
+            "boolCount": 0,
+            "colorCount": 0,
+            "dimenCount": 0,
+            "idCount": 0,
+            "integerArrayCount": [],
+            "arrayCount": [],
+            "styleCount": []
+          }
+        ]
+      },
+      {
+        "qualifiers": "en-rIE",
+        "extension": "xml",
+        "quantity": 1,
+        "valuesFileList": [
+          {
+            "stringCount": 5,
+            "intCount": 0,
+            "boolCount": 0,
+            "colorCount": 0,
+            "dimenCount": 0,
+            "idCount": 0,
+            "integerArrayCount": [],
+            "arrayCount": [],
+            "styleCount": []
+          }
+        ]
+      },
+      {
+        "qualifiers": "es-rES",
+        "extension": "xml",
+        "quantity": 1,
+        "valuesFileList": [
+          {
+            "stringCount": 5,
+            "intCount": 0,
+            "boolCount": 0,
+            "colorCount": 0,
+            "dimenCount": 0,
+            "idCount": 0,
+            "integerArrayCount": [],
+            "arrayCount": [],
+            "styleCount": []
+          }
+        ]
+      },
+      {
+        "qualifiers": "es-rUS",
+        "extension": "xml",
+        "quantity": 1,
+        "valuesFileList": [
+          {
+            "stringCount": 5,
+            "intCount": 0,
+            "boolCount": 0,
+            "colorCount": 0,
+            "dimenCount": 0,
+            "idCount": 0,
+            "integerArrayCount": [],
+            "arrayCount": [],
+            "styleCount": []
+          }
+        ]
+      },
+      {
+        "qualifiers": "fr-rCA",
+        "extension": "xml",
+        "quantity": 1,
+        "valuesFileList": [
+          {
+            "stringCount": 5,
+            "intCount": 0,
+            "boolCount": 0,
+            "colorCount": 0,
+            "dimenCount": 0,
+            "idCount": 0,
+            "integerArrayCount": [],
+            "arrayCount": [],
+            "styleCount": []
+          }
+        ]
+      },
+      {
+        "qualifiers": "fr-rFR",
+        "extension": "xml",
+        "quantity": 1,
+        "valuesFileList": [
+          {
+            "stringCount": 5,
+            "intCount": 0,
+            "boolCount": 0,
+            "colorCount": 0,
+            "dimenCount": 0,
+            "idCount": 0,
+            "integerArrayCount": [],
+            "arrayCount": [],
+            "styleCount": []
+          }
+        ]
+      },
+      {
+        "qualifiers": "ja",
+        "extension": "xml",
+        "quantity": 1,
+        "valuesFileList": [
+          {
+            "stringCount": 5,
+            "intCount": 0,
+            "boolCount": 0,
+            "colorCount": 0,
+            "dimenCount": 0,
+            "idCount": 0,
+            "integerArrayCount": [],
+            "arrayCount": [],
+            "styleCount": []
+          }
+        ]
+      }
+    ],
+    "xml": []
+  },
+  "javaResources": {},
+  "assets": {}
+}

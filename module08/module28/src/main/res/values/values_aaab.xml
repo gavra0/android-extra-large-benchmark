@@ -1,0 +1,20 @@
+<resources>
+    <dimen name="awesome_name_aaaa">447in</dimen>
+    <dimen name="vanilla_face_aaab">668px</dimen>
+    <dimen name="vanilla_aaac">654px</dimen>
+    <dimen name="android_aaad">1251in</dimen>
+    <dimen name="pie_aaae">1469dp</dimen>
+    <dimen name="face_aaaf">533mm</dimen>
+    <dimen name="pie_constable_aaag">1659in</dimen>
+    <dimen name="pie_nice_aaah">86mm</dimen>
+    <dimen name="constable_strawberry_aaai">1515sp</dimen>
+    <dimen name="awesome_writer_aaaj">638mm</dimen>
+    <dimen name="name_aaak">1702in</dimen>
+    <dimen name="the_aaal">1106in</dimen>
+    <dimen name="pie_vanilla_max_aaam">1077px</dimen>
+    <dimen name="min_aaan">541sp</dimen>
+    <dimen name="max_aaao">1455pt</dimen>
+    <dimen name="face_aaap">1516pt</dimen>
+    <dimen name="face_max_aaaq">23dp</dimen>
+    <dimen name="strawberry_pie_aaar">141px</dimen>
+</resources>

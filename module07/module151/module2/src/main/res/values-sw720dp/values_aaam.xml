@@ -1,0 +1,12 @@
+<resources>
+    <dimen name="chocolate_the_aaab">1009in</dimen>
+    <dimen name="delivery_aaaa">610px</dimen>
+    <dimen name="delivery_pizza_aaag">1201mm</dimen>
+    <dimen name="face_aaaj">815mm</dimen>
+    <dimen name="min_aaad">2028in</dimen>
+    <dimen name="name_party_aaae">1218px</dimen>
+    <dimen name="pie_nice_pizza_aaaf">971dp</dimen>
+    <dimen name="pizza_vanilla_pizza_aaai">1566px</dimen>
+    <dimen name="wire_delivery_aaah">1528px</dimen>
+    <dimen name="writer_cool_delivery_aaac">1595in</dimen>
+</resources>

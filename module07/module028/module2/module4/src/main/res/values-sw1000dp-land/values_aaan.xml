@@ -1,0 +1,24 @@
+<resources>
+    <dimen name="android_etc._aaah">873in</dimen>
+    <dimen name="awesome_aaad">1083px</dimen>
+    <dimen name="awesome_strawberry_pizza_aaab">110px</dimen>
+    <dimen name="chocolate_aabc">1972pt</dimen>
+    <dimen name="chocolate_aabl">1530in</dimen>
+    <dimen name="chocolate_awesome_aaae">82dp</dimen>
+    <dimen name="constable_name_aabf">552mm</dimen>
+    <dimen name="cookie_vanilla_face_aabh">1281px</dimen>
+    <dimen name="cool_aaaq">399px</dimen>
+    <dimen name="cool_name_max_aabb">521dp</dimen>
+    <dimen name="delivery_aaao">909mm</dimen>
+    <dimen name="delivery_cool_chocolate_aaax">905mm</dimen>
+    <dimen name="delivery_pizza_awesome_aabj">276sp</dimen>
+    <dimen name="etc._aaaz">2017pt</dimen>
+    <dimen name="face_aabg">132dp</dimen>
+    <dimen name="face_chocolate_awesome_aaap">1506pt</dimen>
+    <dimen name="face_constable_aaaa">1455pt</dimen>
+    <dimen name="face_max_aaat">1495in</dimen>
+    <dimen name="face_writer_aaag">1810mm</dimen>
+    <dimen name="max_pie_aaar">1066px</dimen>
+    <dimen name="min_cool_aaac">1052dp</dimen>
+    <dimen name="name_constable_writer_aaav">375mm</dimen>
+</resources>

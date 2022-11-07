@@ -1,0 +1,77 @@
+plugins {
+  id 'com.android.library'
+  id 'org.jetbrains.kotlin.android'
+}
+android {
+  compileSdkVersion = 'android-32'
+  defaultConfig {
+    minSdkVersion 24
+    targetSdkVersion 31
+  }
+  compileOptions {
+    sourceCompatibility = JavaVersion.VERSION_1_8
+    targetCompatibility = JavaVersion.VERSION_1_8
+  }
+  kotlinOptions {
+    jvmTarget = '1.8'
+  }
+  buildFeatures {
+    buildConfig = false
+  }
+}
+dependencies {
+  androidTestImplementation 'androidx.annotation:annotation:1.0.0'
+  api project(':module02:module07:module4')
+  api project(':module02:module09:module1')
+  api project(':module02:module17:module4')
+  api project(':module02:module31:module01:module1')
+  api project(':module02:module31:module06:module1')
+  api project(':module02:module31:module10:module1')
+  api project(':module02:module31:module12:module1')
+  api project(':module02:module31:module13:module1')
+  api project(':module02:module31:module16:module1')
+  api project(':module02:module31:module15:module1')
+  api project(':module02:module31:module15:module2')
+  api project(':module02:module31:module18:module2')
+  api project(':module02:module31:module18:module4')
+  api project(':module02:module31:module19:module1')
+  api project(':module02:module31:module22:module2')
+  api project(':module02:module31:module26:module1')
+  api project(':module02:module31:module29:module1')
+  api project(':module02:module31:module33:module1')
+  api project(':module02:module31:module34:module1')
+  api project(':module02:module31:module36:module2')
+  api project(':module02:module31:module37:module3')
+  api project(':module02:module31:module38:module1')
+  api project(':module02:module31:module41:module1')
+  api project(':module02:module33:module1')
+  api project(':module02:module32:module1')
+  api project(':module02:module39:module1')
+  api project(':module02:module39:module3')
+  api project(':module02:module41:module2')
+  api project(':module07:module010:module1')
+  api project(':module07:module031:module3')
+  api project(':module07:module129:module1')
+  api project(':module07:module149:module1')
+  api project(':module07:module149:module3')
+  api project(':module07:module166:module7')
+  api project(':module07:module194:module1')
+  api project(':module07:module203:module3')
+  api project(':module07:module237:module3')
+  api project(':module07:module247:module1')
+  api project(':module07:module249:module3')
+  api project(':module07:module325:module2')
+  api project(':module07:module356:module1')
+  api project(':module07:module361:module1')
+  api project(':module07:module393:module2')
+  api project(':module07:module445:module2')
+  api project(':module07:module481:module2')
+  api project(':module07:module508:module2')
+  api project(':module07:module544:module3')
+  api project(':module07:module561:module2')
+  api project(':module07:module567:module3')
+  api project(':module07:module591:module1:module1')
+  api 'com.google.dagger:dagger:2.43.1'
+  compileOnly 'androidx.annotation:annotation:1.0.0'
+  implementation 'org.jetbrains.kotlin:kotlin-bom:1.7.20'
+}

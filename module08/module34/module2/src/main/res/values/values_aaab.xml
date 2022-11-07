@@ -1,0 +1,13 @@
+<resources>
+    <dimen name="chocolate_aaaa">1850px</dimen>
+    <dimen name="vanilla_aaab">676px</dimen>
+    <dimen name="nice_cookie_aaac">1080pt</dimen>
+    <dimen name="party_chocolate_aaad">927pt</dimen>
+    <dimen name="android_aaae">1800mm</dimen>
+    <dimen name="pie_aaaf">1617dp</dimen>
+    <dimen name="vanilla_nice_aaag">1685in</dimen>
+    <dimen name="name_aaah">1086sp</dimen>
+    <dimen name="constable_pie_aaai">148in</dimen>
+    <dimen name="delivery_max_aaaj">1813pt</dimen>
+    <dimen name="max_cool_aaak">1723sp</dimen>
+</resources>

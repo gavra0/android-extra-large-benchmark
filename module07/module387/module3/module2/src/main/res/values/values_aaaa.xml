@@ -1,0 +1,13 @@
+<resources>
+    <dimen name="face_max_aaaa">1204in</dimen>
+    <dimen name="etc._min_aaab">99sp</dimen>
+    <dimen name="face_vanilla_aaac">962px</dimen>
+    <dimen name="etc._writer_strawberry_aaad">61mm</dimen>
+    <dimen name="wire_pizza_party_aaae">678in</dimen>
+    <dimen name="constable_aaaf">936px</dimen>
+    <dimen name="wire_cookie_aaag">130px</dimen>
+    <dimen name="constable_aaah">1834dp</dimen>
+    <dimen name="constable_the_writer_aaai">1723pt</dimen>
+    <dimen name="delivery_vanilla_min_aaaj">820dp</dimen>
+    <dimen name="android_vanilla_aaak">1740pt</dimen>
+</resources>

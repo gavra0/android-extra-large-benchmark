@@ -1,0 +1,18 @@
+plugins {
+  id 'java-library'
+  id 'java'
+}
+dependencies {
+  api project(':module16:module012:module1')
+  api project(':module16:module026:module1')
+  api project(':module16:module031:module1')
+  api project(':module16:module034:module1')
+  api project(':module16:module033:module1')
+  api project(':module16:module036:module1')
+  api project(':module16:module075:module1')
+  api project(':module16:module093:module1')
+  api project(':module16:module105:module1')
+  api 'com.squareup.wire:wire-runtime:4.4.0'
+  compileOnly project(':module25:module5:module1')
+  compileOnly 'androidx.annotation:annotation:1.0.0'
+}

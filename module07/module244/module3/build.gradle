@@ -1,0 +1,41 @@
+plugins {
+  id 'com.android.library'
+  id 'org.jetbrains.kotlin.android'
+}
+android {
+  compileSdkVersion = 'android-32'
+  defaultConfig {
+    minSdkVersion 24
+    targetSdkVersion 31
+  }
+  compileOptions {
+    sourceCompatibility = JavaVersion.VERSION_1_8
+    targetCompatibility = JavaVersion.VERSION_1_8
+  }
+  kotlinOptions {
+    jvmTarget = '1.8'
+  }
+  buildFeatures {
+    buildConfig = false
+  }
+}
+dependencies {
+  androidTestImplementation project(':module16:module060:module1')
+  androidTestImplementation 'androidx.annotation:annotation:1.0.0'
+  androidTestImplementation 'androidx.test:rules:1.4.0'
+  androidTestImplementation 'androidx.test:runner:1.4.0'
+  androidTestImplementation 'com.google.truth:truth:1.1.3'
+  androidTestImplementation 'com.squareup.okhttp3:mockwebserver:4.9.3'
+  androidTestImplementation 'junit:junit:4.13.2'
+  androidTestImplementation 'org.jetbrains.kotlin:kotlin-test-junit:1.7.20'
+  api project(':module07:module194:module1')
+  api project(':module07:module244:module2')
+  api project(':module07:module244:module4')
+  api 'com.google.dagger:dagger:2.43.1'
+  compileOnly 'androidx.annotation:annotation:1.0.0'
+  implementation 'com.squareup.moshi:moshi:1.13.0'
+  implementation 'com.squareup.retrofit2:adapter-rxjava2:2.8.1'
+  implementation 'com.squareup.retrofit2:converter-wire:2.8.1'
+  implementation 'com.squareup.retrofit2:retrofit:2.8.1'
+  implementation 'org.jetbrains.kotlin:kotlin-bom:1.7.20'
+}

@@ -1,0 +1,102 @@
+package com.android.example.module07_module083_module1
+
+@Suppress("UNUSED_PARAMETER")
+class ClassAAE {
+	private 	val instance_var_1_0: com.android.example.module07_module286_module3.ClassAAA = com.android.example.module07_module286_module3.ClassAAA()
+	private 	val instance_var_1_1: com.android.example.module07_module496_module4.ClassAAD = com.android.example.module07_module496_module4.ClassAAD()
+	private 	val instance_var_1_2: com.android.example.module07_module018.ClassAAT = com.android.example.module07_module018.ClassAAT()
+	private 	val instance_var_1_3: com.android.example.module07_module010_module2.ClassAAG = com.android.example.module07_module010_module2.ClassAAG()
+	private 	val instance_var_1_4: com.android.example.module07_module610_module2.ClassAAC = com.android.example.module07_module610_module2.ClassAAC()
+
+	fun method0(
+		param0: com.android.example.module07_module110_module4.ClassAAF,
+		param1: com.android.example.module07_module004_module3.ClassAAC,
+		param2: com.android.example.module07_module610_module2.ClassAAF,
+		param3: com.android.example.module07_module270_module7.ClassAAC
+	) {
+		for (iAb in 0..0) {
+			for (iAc in 0..4) {
+				listOf("1", "2", "3").forEach {
+					val local_var_5_0: com.android.example.module06_module05_module23_module5.ClassAAG = com.android.example.module06_module05_module23_module5.ClassAAG()
+					local_var_5_0.method1(com.android.example.module07_module506_module1.ClassACWJava())
+
+				}
+				val local_var_4_0: com.android.example.module07_module567_module4.ClassAAC = com.android.example.module07_module567_module4.ClassAAC()
+				local_var_4_0.method0(io.reactivex.subscribers.TestSubscriber(), io.reactivex.subscribers.TestSubscriber(), io.reactivex.subscribers.TestSubscriber())
+
+				val local_var_4_1: com.android.example.module07_module487_module1.ClassAAA = com.android.example.module07_module487_module1.ClassAAA()
+				local_var_4_1.method0(com.android.example.module07_module488_module1.ClassAAH(), com.android.example.module07_module488_module1.ClassAAE(), com.android.example.module07_module488_module1.ClassAAA(), com.android.example.module07_module488_module1.ClassAAI())
+
+				val local_var_4_2: com.android.example.module07_module349_module3.ClassAAA = com.android.example.module07_module349_module3.ClassAAA()
+				local_var_4_2.method2(com.android.example.module07_module504_module10.ClassAACJava(), com.android.example.module16_module082_module1.ClassAACJava(), com.android.example.module07_module504_module10.ClassAAB())
+
+			}
+			val local_var_3_0: com.android.example.module07_module588_module3.ClassAAD = com.android.example.module07_module588_module3.ClassAAD()
+			local_var_3_0.method3(com.android.example.module07_module433_module1.ClassAABJava())
+
+			local_var_3_0.method2(com.android.example.module07_module171_module1.ClassABG(), com.android.example.module07_module171_module1.ClassAAQ(), com.android.example.module07_module171_module1.ClassAAY())
+
+		}
+		param0.method4(com.android.example.module07_module112.ClassABMJava())
+
+		param0.method1(com.android.example.module07_module171_module1.ClassABQ())
+
+		val local_var_2_4: com.android.example.module07_module415_module3.ClassAAA = com.android.example.module07_module415_module3.ClassAAA()
+		local_var_2_4.method1(com.android.example.module06_module19_module2_module3.ClassAAE(), com.android.example.module16_module011_module2.ClassAARJava(), com.android.example.module16_module011_module2.ClassACSJava())
+
+	}
+
+	fun method1(
+		param0: com.android.example.module07_module020_module3.ClassAAA,
+		param1: com.android.example.module07_module270_module7.ClassAAD
+	) {
+		val local_var_2_2: com.android.example.module07_module006_module1.ClassAAB = com.android.example.module07_module006_module1.ClassAAB()
+		local_var_2_2.method0(com.android.example.module07_module176_module2.ClassAAA(), com.android.example.module07_module176_module2.ClassAABJava(), com.android.example.module07_module176_module2.ClassAAA())
+
+		val local_var_2_3: com.android.example.module07_module567_module4.ClassAAB = com.android.example.module07_module567_module4.ClassAAB()
+		local_var_2_3.method1(io.reactivex.disposables.SerialDisposable(), io.reactivex.subscribers.TestSubscriber(), io.reactivex.subscribers.TestSubscriber(), io.reactivex.subscribers.TestSubscriber())
+
+		val local_var_2_4: com.android.example.module07_module341.ClassABAJava = com.android.example.module07_module341.ClassABAJava()
+		local_var_2_4.method2(com.android.example.module07_module599_module1.ClassABUJava())
+
+		val local_var_2_5: com.android.example.module16_module113_module1.ClassAAIJava = com.android.example.module16_module113_module1.ClassAAIJava()
+		local_var_2_5.method2(com.android.example.module16_module033_module1.ClassAACJava())
+
+	}
+
+	fun method2(
+		param0: com.android.example.module07_module270_module7.ClassAAA,
+		param1: com.android.example.module07_module286_module3.ClassAAA,
+		param2: com.android.example.module07_module270_module7.ClassAAA,
+		param3: com.android.example.module07_module607_module2.ClassAAB
+	) {
+		val local_var_2_4: com.android.example.module16_module097_module1.ClassAAQ = com.android.example.module16_module097_module1.ClassAAQ()
+		local_var_2_4.method0(com.android.example.module16_module031_module1.ClassAAJJava(), com.android.example.module16_module031_module1.ClassAAJJava(), com.android.example.module16_module031_module1.ClassAAGJava(), com.android.example.module16_module031_module1.ClassAAGJava())
+
+		val local_var_2_5: com.android.example.module07_module466_module1.ClassAAAJava = com.android.example.module07_module466_module1.ClassAAAJava()
+		local_var_2_5.method2("SomeString", "SomeString")
+
+		val local_var_2_6: com.android.example.module16_module003_module1.ClassAAA = com.android.example.module16_module003_module1.ClassAAA()
+		local_var_2_6.method1("SomeString")
+
+		param0.method0(com.android.example.module07_module111_module1.ClassAABJava(), com.android.example.module16_module033_module1.ClassAANJava())
+
+		val local_var_2_7: com.android.example.module07_module274_module2.ClassAABJava = com.android.example.module07_module274_module2.ClassAABJava()
+		local_var_2_7.method2(com.google.gson.JsonStreamParser("SomeString"), com.google.gson.internal.Excluder(), com.google.gson.JsonArray())
+
+	}
+
+	fun method3(
+		param0: com.android.example.module07_module607_module2.ClassAAAJava,
+		param1: com.android.example.module07_module194_module1.ClassAAC,
+		param2: com.android.example.module07_module083_module7.ClassAAC,
+		param3: com.android.example.module07_module610_module2.ClassAAE
+	) {
+		val local_var_2_4: com.android.example.module07_module433_module1.ClassAAH = com.android.example.module07_module433_module1.ClassAAH()
+		local_var_2_4.method1(com.android.example.module07_module466_module1.ClassAAAJava(), com.android.example.module07_module194_module1.ClassAABJava())
+
+		val local_var_2_5: com.android.example.module07_module082_module3.ClassAAA = com.android.example.module07_module082_module3.ClassAAA()
+		local_var_2_5.method0("SomeString", "SomeString", "SomeString")
+
+	}
+}

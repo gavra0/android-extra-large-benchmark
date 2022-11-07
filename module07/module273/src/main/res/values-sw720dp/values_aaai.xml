@@ -1,0 +1,16 @@
+<resources>
+    <dimen name="awesome_aaac">1040mm</dimen>
+    <dimen name="awesome_aaaj">256dp</dimen>
+    <dimen name="constable_face_aaau">1499px</dimen>
+    <dimen name="cookie_aaas">1742px</dimen>
+    <dimen name="cool_aaaq">1734sp</dimen>
+    <dimen name="cool_cool_strawberry_aaab">369sp</dimen>
+    <dimen name="etc._wire_aaah">349in</dimen>
+    <dimen name="face_cookie_face_aaao">167sp</dimen>
+    <dimen name="max_wire_aaak">1842mm</dimen>
+    <dimen name="min_aaae">195px</dimen>
+    <dimen name="min_cool_pie_aaan">1392mm</dimen>
+    <dimen name="name_pie_aaap">1183pt</dimen>
+    <dimen name="nice_aaav">590pt</dimen>
+    <dimen name="party_aaal">1943pt</dimen>
+</resources>

@@ -1,0 +1,94 @@
+plugins {
+  id 'com.android.library'
+  id 'org.jetbrains.kotlin.android'
+}
+android {
+  compileSdkVersion = 'android-32'
+  defaultConfig {
+    minSdkVersion 24
+    targetSdkVersion 31
+  }
+  compileOptions {
+    sourceCompatibility = JavaVersion.VERSION_1_8
+    targetCompatibility = JavaVersion.VERSION_1_8
+  }
+  kotlinOptions {
+    jvmTarget = '1.8'
+  }
+  buildFeatures {
+    buildConfig = false
+  }
+}
+dependencies {
+  androidTestImplementation project(':module07:module505:module1')
+  androidTestImplementation 'androidx.annotation:annotation:1.0.0'
+  androidTestImplementation 'androidx.compose.runtime:runtime:1.2.0-alpha07'
+  androidTestImplementation 'com.squareup.anvil:annotations:2.4.1'
+  androidTestImplementation 'org.jetbrains.kotlin:kotlin-parcelize-runtime:1.7.20'
+  annotationProcessor 'com.google.dagger:dagger-compiler:2.43.1'
+  api project(':module01:module03')
+  api project(':module03:module03:module04')
+  api project(':module07:module069:module2')
+  api project(':module07:module076:module2')
+  api project(':module07:module147:module4')
+  api project(':module07:module220:module3')
+  api project(':module07:module242:module5:module3')
+  api project(':module07:module253:module2:module2')
+  api project(':module07:module255:module4:module2')
+  api project(':module07:module255:module3:module4')
+  api project(':module07:module292:module4')
+  api project(':module07:module326:module5')
+  api project(':module07:module326:module6')
+  api project(':module07:module329:module3')
+  api project(':module07:module351:module5')
+  api project(':module07:module401:module4')
+  api project(':module07:module401:module5')
+  api project(':module07:module464:module6')
+  api project(':module07:module542:module3')
+  api project(':module07:module544:module2')
+  api project(':module08:module22')
+  api project(':module08:module24')
+  api project(':module08:module28')
+  api project(':module08:module30:module1')
+  api project(':module08:module41:module3')
+  api project(':module08:module43')
+  api project(':module08:module50:module6')
+  api project(':module08:module54:module2')
+  api project(':module08:module56')
+  api project(':module10:module2')
+  api project(':module13:module04:module5')
+  api project(':module13:module10:module5')
+  api project(':module13:module10:module6')
+  api project(':module13:module13:module1')
+  api project(':module15:module1:module2')
+  api 'com.google.dagger:dagger:2.43.1'
+  compileOnly project(':module07:module417:module3')
+  compileOnly project(':module07:module505:module1')
+  compileOnly 'androidx.annotation:annotation:1.0.0'
+  compileOnly 'androidx.compose.runtime:runtime:1.2.0-alpha07'
+  compileOnly 'com.squareup.anvil:annotations:2.4.1'
+  compileOnly 'org.jetbrains.kotlin:kotlin-parcelize-runtime:1.7.20'
+  implementation project(':module03:module03:module07')
+  implementation project(':module07:module194:module1')
+  implementation project(':module07:module204:module3')
+  implementation project(':module07:module290:module1')
+  implementation project(':module07:module486:module1')
+  implementation project(':module07:module511:module1')
+  implementation project(':module07:module514:module1')
+  implementation project(':module08:module01')
+  implementation project(':module08:module36')
+  implementation project(':module08:module50:module7')
+  implementation project(':module13:module01')
+  implementation project(':module13:module05')
+  implementation project(':module13:module07:module3')
+  implementation project(':module13:module08')
+  implementation project(':module13:module09')
+  implementation project(':module13:module12')
+  implementation 'org.jetbrains.kotlin:kotlin-bom:1.7.20'
+  testImplementation project(':module07:module354:module1')
+  testImplementation 'com.google.truth:truth:1.1.3'
+  testImplementation 'junit:junit:4.13.2'
+  testImplementation 'org.jetbrains.kotlin:kotlin-test-junit:1.7.20'
+  testImplementation 'org.mockito.kotlin:mockito-kotlin:3.2.0'
+  testImplementation 'org.mockito:mockito-core:3.12.4'
+}

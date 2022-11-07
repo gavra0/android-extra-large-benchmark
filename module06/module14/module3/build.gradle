@@ -1,0 +1,51 @@
+plugins {
+  id 'com.android.library'
+  id 'org.jetbrains.kotlin.android'
+}
+android {
+  compileSdkVersion = 'android-32'
+  defaultConfig {
+    minSdkVersion 24
+    targetSdkVersion 31
+  }
+  compileOptions {
+    sourceCompatibility = JavaVersion.VERSION_1_8
+    targetCompatibility = JavaVersion.VERSION_1_8
+  }
+  kotlinOptions {
+    jvmTarget = '1.8'
+  }
+  buildFeatures {
+    buildConfig = false
+  }
+}
+dependencies {
+  androidTestImplementation 'androidx.annotation:annotation:1.0.0'
+  api project(':module06:module05:module05:module5')
+  api project(':module06:module14:module1')
+  api project(':module06:module14:module4')
+  api project(':module07:module161:module4')
+  api project(':module07:module194:module1')
+  api project(':module07:module207:module3')
+  api project(':module07:module285:module3')
+  api project(':module07:module326:module7')
+  api project(':module07:module429:module1')
+  api project(':module07:module455:module1')
+  api project(':module07:module508:module3')
+  api project(':module07:module561:module3')
+  api project(':module07:module592:module3')
+  api project(':module18:module10:module1:module1')
+  api project(':module18:module10:module2:module1')
+  api project(':module18:module10:module5:module1')
+  api project(':module18:module10:module6:module1')
+  api project(':module18:module12:module1:module2')
+  api project(':module18:module12:module4:module1')
+  api project(':module18:module12:module4:module2')
+  api project(':module18:module13:module1')
+  api 'androidx.lifecycle:lifecycle-common-java8:2.4.0'
+  api 'com.google.dagger:dagger:2.43.1'
+  compileOnly 'androidx.annotation:annotation:1.0.0'
+  implementation project(':module07:module166:module8')
+  implementation project(':module18:module13:module1')
+  implementation 'org.jetbrains.kotlin:kotlin-bom:1.7.20'
+}

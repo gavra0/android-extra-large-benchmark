@@ -1,0 +1,13 @@
+<resources>
+    <dimen name="chocolate_wire_aaaa">843dp</dimen>
+    <dimen name="delivery_pizza_aaab">698px</dimen>
+    <dimen name="etc._max_aaac">885pt</dimen>
+    <dimen name="pizza_chocolate_aaad">262dp</dimen>
+    <dimen name="pizza_party_nice_aaae">798in</dimen>
+    <dimen name="the_android_aaaf">1126sp</dimen>
+    <dimen name="name_aaag">1198pt</dimen>
+    <dimen name="name_aaah">332in</dimen>
+    <dimen name="awesome_aaai">1502sp</dimen>
+    <dimen name="wire_delivery_vanilla_aaaj">695dp</dimen>
+    <dimen name="android_aaak">1550mm</dimen>
+</resources>

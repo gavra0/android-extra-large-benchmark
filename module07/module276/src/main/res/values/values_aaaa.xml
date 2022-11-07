@@ -1,0 +1,10 @@
+<resources>
+    <dimen name="delivery_etc._aaaa">829mm</dimen>
+    <dimen name="vanilla_aaab">819sp</dimen>
+    <dimen name="party_aaac">1196in</dimen>
+    <dimen name="awesome_pie_aaad">1163sp</dimen>
+    <dimen name="min_wire_aaae">1428sp</dimen>
+    <dimen name="android_constable_aaaf">1882pt</dimen>
+    <dimen name="nice_nice_aaag">1280in</dimen>
+    <dimen name="max_aaah">317dp</dimen>
+</resources>

@@ -1,0 +1,64 @@
+plugins {
+  id 'com.android.library'
+  id 'org.jetbrains.kotlin.android'
+}
+android {
+  compileSdkVersion = 'android-32'
+  defaultConfig {
+    minSdkVersion 24
+    targetSdkVersion 31
+  }
+  compileOptions {
+    sourceCompatibility = JavaVersion.VERSION_1_8
+    targetCompatibility = JavaVersion.VERSION_1_8
+  }
+  kotlinOptions {
+    jvmTarget = '1.8'
+  }
+  buildFeatures {
+    buildConfig = false
+  }
+}
+dependencies {
+  androidTestImplementation 'androidx.annotation:annotation:1.0.0'
+  api project(':module07:module002:module1')
+  api project(':module07:module009:module2')
+  api project(':module07:module005:module3')
+  api project(':module07:module005:module4')
+  api project(':module07:module019:module3')
+  api project(':module07:module035:module1')
+  api project(':module07:module052:module3')
+  api project(':module07:module053:module1')
+  api project(':module07:module172:module3')
+  api project(':module07:module194:module1')
+  api project(':module07:module198:module2')
+  api project(':module07:module203:module3')
+  api project(':module07:module202:module04')
+  api project(':module07:module202:module10')
+  api project(':module07:module204:module3')
+  api project(':module07:module205:module4')
+  api project(':module07:module221:module2')
+  api project(':module07:module262:module2')
+  api project(':module07:module263:module3')
+  api project(':module07:module274:module1')
+  api project(':module07:module285:module2')
+  api project(':module07:module427:module1')
+  api project(':module07:module504:module07')
+  api project(':module07:module504:module09')
+  api project(':module07:module508:module2')
+  api project(':module07:module562:module03')
+  api project(':module07:module562:module05')
+  api project(':module07:module562:module07')
+  api project(':module07:module562:module09')
+  api project(':module07:module570:module1')
+  api project(':module07:module587:module1')
+  api project(':module07:module592:module2')
+  api project(':module07:module594:module2')
+  api 'com.google.dagger:dagger:2.43.1'
+  api 'com.squareup.okhttp3:logging-interceptor:4.9.3'
+  compileOnly 'androidx.annotation:annotation:1.0.0'
+  implementation project(':module07:module343:module2')
+  implementation project(':module07:module486:module1')
+  implementation 'com.squareup.logcat:logcat:0.1'
+  implementation 'org.jetbrains.kotlin:kotlin-bom:1.7.20'
+}

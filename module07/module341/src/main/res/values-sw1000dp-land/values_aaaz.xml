@@ -1,0 +1,8 @@
+<resources>
+    <dimen name="android_aadp">225in</dimen>
+    <dimen name="android_aaed">2019pt</dimen>
+    <dimen name="android_aaeq">222mm</dimen>
+    <dimen name="android_constable_party_aaff">129in</dimen>
+    <dimen name="android_name_aadi">656sp</dimen>
+    <dimen name="android_party_aabf">1858dp</dimen>
+</resources>

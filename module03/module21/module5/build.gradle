@@ -1,0 +1,33 @@
+plugins {
+  id 'com.android.library'
+}
+android {
+  compileSdkVersion = 'android-32'
+  defaultConfig {
+    minSdkVersion 25
+    targetSdkVersion 25
+  }
+  compileOptions {
+    sourceCompatibility = JavaVersion.VERSION_1_8
+    targetCompatibility = JavaVersion.VERSION_1_8
+  }
+  buildFeatures {
+    buildConfig = false
+  }
+}
+dependencies {
+  androidTestImplementation project(':module07:module505:module1')
+  androidTestImplementation 'androidx.annotation:annotation:1.0.0'
+  androidTestImplementation 'androidx.compose.runtime:runtime:1.2.0-alpha07'
+  androidTestImplementation 'com.squareup.anvil:annotations:2.4.1'
+  androidTestImplementation 'org.jetbrains.kotlin:kotlin-parcelize-runtime:1.7.20'
+  annotationProcessor 'com.google.dagger:dagger-compiler:2.43.1'
+  api project(':module03:module21:module3')
+  api project(':module23:module5:module17')
+  api 'com.google.dagger:dagger:2.43.1'
+  compileOnly project(':module07:module505:module1')
+  compileOnly 'androidx.annotation:annotation:1.0.0'
+  compileOnly 'androidx.compose.runtime:runtime:1.2.0-alpha07'
+  compileOnly 'com.squareup.anvil:annotations:2.4.1'
+  compileOnly 'org.jetbrains.kotlin:kotlin-parcelize-runtime:1.7.20'
+}

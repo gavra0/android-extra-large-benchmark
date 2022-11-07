@@ -1,0 +1,9 @@
+<resources>
+    <dimen name="android_face_aaae">987sp</dimen>
+    <dimen name="etc._aaab">224sp</dimen>
+    <dimen name="etc._aaaf">1140in</dimen>
+    <dimen name="etc._constable_aaah">1849px</dimen>
+    <dimen name="party_cool_wire_aaac">1253px</dimen>
+    <dimen name="party_pie_aaag">425in</dimen>
+    <dimen name="party_wire_face_aaad">806mm</dimen>
+</resources>

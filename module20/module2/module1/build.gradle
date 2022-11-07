@@ -1,0 +1,67 @@
+plugins {
+  id 'com.android.library'
+  id 'org.jetbrains.kotlin.android'
+}
+android {
+  compileSdkVersion = 'android-32'
+  defaultConfig {
+    minSdkVersion 24
+    targetSdkVersion 31
+  }
+  compileOptions {
+    sourceCompatibility = JavaVersion.VERSION_1_8
+    targetCompatibility = JavaVersion.VERSION_1_8
+  }
+  kotlinOptions {
+    jvmTarget = '1.8'
+  }
+  buildFeatures {
+    buildConfig = false
+  }
+}
+dependencies {
+  androidTestImplementation 'androidx.annotation:annotation:1.0.0'
+  androidTestImplementation 'androidx.test.espresso:espresso-contrib:3.3.0'
+  androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
+  androidTestImplementation 'androidx.test.espresso:espresso-idling-resource:3.3.0'
+  androidTestImplementation 'com.squareup.burst:burst-junit4:1.1.1'
+  api project(':module05:module31:module6')
+  api project(':module05:module36:module5')
+  api project(':module06:module05:module23:module2')
+  api project(':module07:module029:module4:module3')
+  api project(':module07:module080:module3')
+  api project(':module07:module149:module1')
+  api project(':module07:module167:module07')
+  api project(':module07:module185:module1')
+  api project(':module07:module202:module05')
+  api project(':module07:module216:module02:module3:module05')
+  api project(':module07:module216:module02:module4:module5')
+  api project(':module07:module235:module4')
+  api project(':module07:module270:module3')
+  api project(':module07:module313:module2')
+  api project(':module07:module347:module1')
+  api project(':module07:module404:module2')
+  api project(':module07:module512:module2')
+  api project(':module07:module583:module1')
+  api project(':module07:module586:module1')
+  api project(':module07:module584:module1')
+  api project(':module09:module2:module1')
+  api project(':module08:module13:module2')
+  api project(':module08:module18:module2')
+  api project(':module08:module40:module4')
+  api project(':module08:module60:module3')
+  api project(':module11:module1')
+  api project(':module15:module1:module1')
+  api project(':module20:module1:module6:module1')
+  api project(':module20:module3:module01:module2')
+  api project(':module20:module3:module07:module2')
+  api project(':module20:module3:module09:module4')
+  api project(':module20:module3:module10:module3')
+  api project(':module20:module3:module14:module2')
+  api project(':module20:module3:module16:module2')
+  api project(':module20:module3:module19:module3')
+  api project(':module20:module4:module2')
+  compileOnly 'androidx.annotation:annotation:1.0.0'
+  implementation 'com.squareup.leakcanary:leakcanary-android-instrumentation:2.9.1'
+  implementation 'org.jetbrains.kotlin:kotlin-bom:1.7.20'
+}
