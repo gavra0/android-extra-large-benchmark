@@ -1,7 +1,7 @@
 package com.android.example.module07_module154_module1
 
 @Suppress("UNUSED_PARAMETER")
-class ClassAAA {
+class ClassAAA9 {
 	private 	val instance_var_1_0: com.android.example.module07_module194_module1.ClassAACJava = com.android.example.module07_module194_module1.ClassAACJava()
 	private 	val instance_var_1_1: com.android.example.module07_module154_module2.ClassAAG = com.android.example.module07_module154_module2.ClassAAG()
 	private 	val instance_var_1_2: com.android.example.module07_module154_module2.ClassAAE = com.android.example.module07_module154_module2.ClassAAE()
@@ -29,7 +29,7 @@ class ClassAAA {
 
 	}
 
-	fun method1(
+	fun method6(
 		param0: com.android.example.module07_module194_module1.ClassAAC
 	) {
 		param0.method0("SomeString", "SomeString")
