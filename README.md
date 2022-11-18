@@ -25,3 +25,13 @@ The main application is `:module03:module09:module1`, and in order to benchmark 
 ```
 
 You can also execute `./gradlew assembleDebug` that will assemble all projects, but please keep in mind this will take a while to run.
+
+# Working with smaller subsets
+The top level directory contains multiple settings.gradle files which allow
+working with smaller subsets of the project for different scenarios. To use
+these, specify the `-c` or `--settings-file` options when invoking gradle.
+Example:
+
+```
+./gradlew -c settings-200.gradle build
+```
