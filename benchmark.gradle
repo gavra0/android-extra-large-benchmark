@@ -1,0 +1,38 @@
+abstract class RunBenchmarkTask extends Exec {
+    private String profilerPath;
+    private String studioPath;
+
+    @Input
+    public String getProfilerPath() {
+        return profilerPath;
+    }
+
+    @Input
+    public String getStudioPath() {
+        return studioPath;
+    }
+
+    @Option(option = "profiler-path", description = "Path to gradle-profiler")
+    public void setProfilerPath(String path) {
+        this.profilerPath = path;
+    }
+
+    @Option(option = "studio-path", description = "Path to the studio instance to be used for benchmarking")
+    public void setStudioPath(String path) {
+        this.studioPath = path;
+    }
+
+    @TaskAction
+    public void exec() {
+        executable(profilerPath)
+        args(
+                "--benchmark",
+                "--scenario-file",
+                "profiler-scenarios/sync.scenario",
+                "--studio-install-dir",
+                studioPath
+        )
+        super.exec()
+    }
+}
+ext.RunBenchmarkTask = RunBenchmarkTask
