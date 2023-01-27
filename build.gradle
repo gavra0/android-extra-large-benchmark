@@ -5,6 +5,8 @@ plugins {
   id 'org.jetbrains.kotlin.android' version '1.7.20' apply false
   id 'org.jetbrains.kotlin.kapt' version '1.7.20' apply false
 }
+apply from: 'benchmark.gradle'
+
 allprojects { p ->
   repositories {
     google()
@@ -24,3 +26,36 @@ allprojects { p ->
 }
 dependencies {
 }
+
+def configure(name, memoryUse) {
+  tasks.register("configure$name") {
+    ant.copy(
+        file: "settings-${name.toLowerCase()}.gradle",
+        tofile: "settings.gradle",
+        overwrite: true
+    )
+    ant.replaceregexp(
+        file: "gradle.properties",
+        match: "-Xmx[\\w]*",
+        replace: "-Xmx$memoryUse"
+    )
+    println("Project configured to use $name modules with $memoryUse memory")
+  }
+  tasks.register("benchmark$name", RunBenchmarkTask) {
+    dependsOn("configure$name")
+  }
+}
+
+def countToMemoryUseMap = [
+        "50": "400m",
+        "100": "600m",
+        "200": "1300m",
+        "500": "4000m",
+        "1000": "9000m",
+        "App": "20000m",
+        "All": "50000m",
+]
+countToMemoryUseMap.each { name, memoryUse ->
+  configure(name, memoryUse)
+}
+
