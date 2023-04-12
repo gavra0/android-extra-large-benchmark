@@ -14,3 +14,20 @@ androidStudioSync {
         ]
     }
 }
+
+androidStudioSyncWithMeasurement {
+    title = "Android Studio Sync"
+    versions = [ "7.5.1" ]
+    warm-ups = 1
+    iterations = 1
+    android-studio-sync {
+        # Override default Android Studio jvm args
+        studio-jvm-args = [
+            "-Xms256m",
+            "-Xmx10g",
+            "-XX:-MaxFDLimit"
+            "-Dgradle.ide.gradle.heap.analysis.output.directory=measurements",
+            "-Dgradle.ide.gradle.heap.analysis.lightweight.mode=true"
+        ]
+    }
+}
