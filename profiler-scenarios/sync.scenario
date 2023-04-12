@@ -7,6 +7,10 @@ androidStudioSync {
     iterations = 1
     android-studio-sync {
         # Override default Android Studio jvm args
-        studio-jvm-args = ["-Xms256m", "-Xmx10g"]
+        studio-jvm-args = [
+            "-Xms256m",
+            "-Xmx10g",
+            "-XX:-MaxFDLimit"
+        ]
     }
 }
