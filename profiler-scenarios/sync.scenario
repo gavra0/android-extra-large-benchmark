@@ -6,8 +6,7 @@ androidStudioSync {
     warm-ups = 1
     iterations = 1
     android-studio-sync {
-        # Override default Android Studio jvm args,
-        # The max memory will need adjusting
-        studio-jvm-args = ["-Xms256m", "-Xmx4096m",]
+        # Override default Android Studio jvm args
+        studio-jvm-args = ["-Xms256m", "-Xmx10g"]
     }
 }
