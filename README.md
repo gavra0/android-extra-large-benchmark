@@ -47,7 +47,8 @@ options when invoking gradle. However, this will not include things like setting
 ```
 
 # Getting memory measurements with native agent
-> **Note:**  This only works from Android Studio Giraffe onwards and the latest gradle-profiler version (0.19.0) doesn't support Giraffe yet. You will have to use at least [v0.20.0-alpha01](https://github.com/gradle/gradle-profiler/releases/tag/v0.20.0-alpha01) and there are no binaries available for it yet.
+> **Note:**  This only works from Android Studio Giraffe onwards and the latest gradle-profiler version (0.19.0) doesn't support Giraffe yet. You will have to use at least [v0.20.0-alpha01](https://github.com/gradle/gradle-profiler/releases/tag/v0.20.0-alpha01) and there are no binaries available for it yet. \
+Also it **only works with Linux** for now, Mac support can be considered if needed.
 
 Android Studio has a mode where it can measure the memory usage of the Gradle daemon by running a native agent which
 traverses the heap real-time and reports back the size of strongly reachable objects from GC roots. This traversal is
