@@ -14,12 +14,12 @@ allprojects { p ->
     }
   }
    p.plugins.withId("com.android.library") {
-    p.android.composeOptions.kotlinCompilerExtensionVersion = "1.3.2"
+    p.android.composeOptions.kotlinCompilerExtensionVersion = "1.4.5"
     p.android.lint.checkReleaseBuilds = false
     p.android.namespace = "pkg.android" + p.path.replace(":", ".")
   }
   p.plugins.withId("com.android.application") {
-    p.android.composeOptions.kotlinCompilerExtensionVersion = "1.3.2"
+    p.android.composeOptions.kotlinCompilerExtensionVersion = "1.4.5"
     p.android.lint.checkReleaseBuilds = false
     p.android.namespace = "pkg.android" + p.path.replace(":", ".")
   }
