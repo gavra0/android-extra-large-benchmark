@@ -23,6 +23,9 @@ allprojects { p ->
     p.android.lint.checkReleaseBuilds = false
     p.android.namespace = "pkg.android" + p.path.replace(":", ".")
   }
+  tasks.withType(org.jetbrains.kotlin.gradle.internal.KaptGenerateStubsTask).configureEach {
+    compilerOptions.jvmTarget = org.jetbrains.kotlin.gradle.dsl.JvmTarget.JVM_1_8
+  }
 }
 dependencies {
 }
