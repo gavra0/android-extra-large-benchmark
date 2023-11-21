@@ -46,35 +46,24 @@ options when invoking gradle. However, this will not include things like setting
 ./gradlew -c settings-200.gradle build
 ```
 
-# Getting memory measurements with native agent
-> **Note:**  This only works from Android Studio Giraffe onwards and the latest gradle-profiler version (0.19.0) doesn't support Giraffe yet. You will have to use at least [v0.20.0-alpha01](https://github.com/gradle/gradle-profiler/releases/tag/v0.20.0-alpha01) and there are no binaries available for it yet. \
-Also it **only works with Linux** for now, Mac support can be considered if needed.
+# Getting memory measurements 
+Included in `measurements/plugin.init.gradle.kts` is a Gradle plugin that can capture histogram, heap,
+or timestamps when a sync starts, project configuration finishes and sync finishes.  To enable the 
+plugin, from Studio go to Settings -> Build, Execution, Deployment -> Gradle-Android compiler -> 
+Command-line options and add `-I measurements/plugin.init.gradle.kts`. This tells studio to run this
+script as an init script.
 
-Android Studio has a mode where it can measure the memory usage of the Gradle daemon by running a native agent which
-traverses the heap real-time and reports back the size of strongly reachable objects from GC roots. This traversal is
-done right after the Android models are returned.
+The UI/strings can slightly change across Studio versions, but below is roughly how it should look
+like.
+![studio-enabling-plugin.png](studio-enabling-plugin.png)
 
-There is a gradle-profiler scenario where you can run that mode, it can be invoked via running the following commands:
-(be sure to replace <desired_size> and <studio_dir>)
-```
-# Set up the targeted project subset, and the native agent
-./apply_diff.sh <desired_size> --enable-agent
-# Run the profiler scenario with the right studio flags
-gradle-profiler --scenario-file profiler-scenarios/sync.scenario androidStudioSyncWithMeasurement --benchmark --studio-install-dir=<studio_dir>
-```
-This will create a file in the `measurements` folder one with the total size of strongly reachable objects from GC 
-roots. The measurement and the path of this file will be logged by the Gradle daemon.
+There is also an option that essentially tells JVM to not treat soft references any differently than
+other references, this makes sure we get more reliable memory readings. It can be enabled via 
+following. When this is enabled, the total object size reported by the histogram/heap will be much
+more reliable and can be used as an indicator of memory regressions. Without the flag, we'd need 
+additional processing of the heap to figure out only the strongly reachable objects.
 
-Agent can be disabled by running the `apply_diff.sh` command without the `--enable-agent` flag.
+`./apply_diff.sh <desired_size> --remove-soft-references`
 
-Please note that this is an initial version of the benchmark scenario, this can be further embedded into gradle-profiler
-to make it easier to use/set up.
-
-### Manual agent setup
-To do set up the agent manually (on Linux), the following needs to be done:
-* Adding `-agentpath:<project_dir>/native/linux/liblightweight_heap_traverse.so` to `org.gradle.jvmargs` in `gradle.properties`
-* Set following on studio JVM args:
-```
-  -Dgradle.ide.gradle.heap.analysis.output.directory=<directory>
-  -Dgradle.ide.gradle.heap.analysis.lightweight.mode=true
-```
+All this does is to add `-XX:SoftRefLRUPolicyMSPerMB=0` to Gradle daemon's JVM args. The flag will 
+be removed if `apply_diff.sh` is run without `--remove-soft-references`

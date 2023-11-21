@@ -2,32 +2,12 @@ default-scenarios = ["androidStudioSync"]
 
 androidStudioSync {
     title = "Android Studio Sync"
-    versions = [ "8.0" ]
-    warm-ups = 1
-    iterations = 1
     android-studio-sync {
         # Override default Android Studio jvm args
         studio-jvm-args = [
             "-Xms256m",
             "-Xmx10g",
             "-XX:-MaxFDLimit"
-        ]
-    }
-}
-
-androidStudioSyncWithMeasurement {
-    title = "Android Studio Sync"
-    versions = [ "8.0" ]
-    warm-ups = 1
-    iterations = 1
-    android-studio-sync {
-        # Override default Android Studio jvm args
-        studio-jvm-args = [
-            "-Xms256m",
-            "-Xmx10g",
-            "-XX:-MaxFDLimit"
-            "-Dgradle.ide.gradle.heap.analysis.output.directory=measurements",
-            "-Dgradle.ide.gradle.heap.analysis.lightweight.mode=true"
         ]
     }
 }

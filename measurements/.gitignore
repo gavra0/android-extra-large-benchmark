@@ -2,4 +2,5 @@
 *
 # but the following
 !.gitignore
+!plugin.init.gradle.kts
 !README.md
