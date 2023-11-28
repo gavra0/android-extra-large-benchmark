@@ -14,7 +14,7 @@ allprojects { p ->
     }
   }
    p.plugins.withId("com.android.library") {
-    p.android.composeOptions.kotlinCompilerExtensionVersion = "1.4.5"
+    p.android.composeOptions.kotlinCompilerExtensionVersion = "1.5.2"
     p.android.lint.checkReleaseBuilds = false
     p.android.namespace = "pkg.android" + p.path.replace(":", ".")
   }
