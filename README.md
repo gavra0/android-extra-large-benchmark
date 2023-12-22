@@ -57,6 +57,9 @@ The UI/strings can slightly change across Studio versions, but below is roughly 
 like.
 ![studio-enabling-plugin.png](studio-enabling-plugin.png)
 
+You can customize the behavior of the plugin by modifying [the script](measurements/plugin.init.gradle.kts), 
+specifically the final lines of the file.
+
 There is also an option that essentially tells JVM to not treat soft references any differently than
 other references, this makes sure we get more reliable memory readings. It can be enabled via 
 following. When this is enabled, the total object size reported by the histogram/heap will be much
